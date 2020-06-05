@@ -1,3 +1,26 @@
+/* Global color variables */
+
+/* v1: deprecated 20200605
+:root {
+  --header-text-color: #7a6555;
+  --header-text-color-highlight: #b59a8b;
+  --nav-highlight: #FFFFFF;
+  --header-background: #360d00;
+  --footer-background: #f7efea;
+  --footer-text-color: #6c557a;
+}*/
+
+:root {
+  --header-background: #1D3557;
+  --header-text-color: #457B9D;
+  --header-text-color-highlight: #A8DADC;
+  --footer-background: #F1FAEE;
+  --nav-highlight: #FFFFFF;
+}
+
+
+/* Built-ins from Bootstrap Studio*/
+
 /* Article-List */
 
 .article-list {
