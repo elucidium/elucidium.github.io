@@ -16,16 +16,27 @@
   --header-text-color-highlight: #A8DADC;
   --footer-background: #F1FAEE;
   --nav-highlight: #FFFFFF;
+  --text-color: #313437;
+  --page-background: #FFFFFF;
 }
 
+a {
+  color: #721e23;
+}
+a:visited {
+  color: #a4323b;
+}
+a:hover, a:active, a:focus {
+  color:#E63946;
+}
 
 /* Built-ins from Bootstrap Studio*/
 
 /* Article-List */
 
 .article-list {
-    color: #313437;
-    background-color: #fff;
+    color: var(--text-color);
+    background-color: var(--page-background);
   }
   
   .article-list p {
@@ -138,8 +149,8 @@
 /* Lightbox-Gallery */
 
 .photo-gallery {
-    color: #313437;
-    background-color: #fff;
+    color: var(--text-color);
+    background-color: var(--page-background);
   }
   
   .photo-gallery p {
@@ -182,7 +193,7 @@
 /* Navigation-Clean */
 
 .navigation-clean {
-    background: #fff;
+    background: var(--page-background);
     padding-top: .75rem;
     padding-bottom: .75rem;
     color: #333;
@@ -248,7 +259,7 @@
   .navigation-clean .navbar-nav > li > .dropdown-menu {
     margin-top: -5px;
     box-shadow: none;
-    background-color: #fff;
+    background-color: var(--page-background);
     border-radius: 2px;
   }
   
@@ -265,8 +276,8 @@
 /* Projects-CLean */
 
 .projects-clean {
-    color: #313437;
-    background-color: #fff;
+    color: var(--text-color);
+    background-color: var(--page-background);
   }
   
   .projects-clean p {
@@ -305,8 +316,8 @@
 /* Projects-Horizontal */
 
 .projects-horizontal {
-    color: #313437;
-    background-color: #fff;
+    color: var(--text-color);
+    background-color: var(--page-background);
   }
   
   .projects-horizontal p {
@@ -372,8 +383,8 @@
 /* Team-Clean */
 
 .team-clean {
-    color: #313437;
-    background-color: #fff;
+    color: var(--text-color);
+    background-color: var(--page-background);
   }
   
   .team-clean p {
