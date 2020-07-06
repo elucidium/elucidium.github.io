@@ -30,7 +30,22 @@ a:hover, a:active, a:focus {
   color:#E63946;
 }
 
-/* Built-ins from Bootstrap Studio*/
+/* TWEAKS */
+
+.jumbotron {
+  background-color: var(--footer-background);
+}
+
+.dropdown-active {
+  color: var(--header-text-color-highlight) !important;
+  pointer-events: none;
+}
+
+.rounded-circle, .img-fluid {
+  filter: drop-shadow(0 2px 3px #8f8f8f);
+}
+
+/* BOOTSTRAP BUILT-INS */
 
 /* Article-List */
 
@@ -111,7 +126,7 @@ a:hover, a:active, a:focus {
 
 .footer-basic {
     padding: 40px 0;
-    background-color: #ffffff;
+    background-color: var(--footer-background);
     color: #4b4c4d;
   }
   
@@ -122,10 +137,12 @@ a:hover, a:active, a:focus {
     font-size: 18px;
     line-height: 1.6;
     margin-bottom: 0;
+    color: var(--footer-text-color);
   }
   
   .footer-basic li {
     padding: 0 10px;
+    color: var(--header-text-color);
   }
   
   .footer-basic ul a {
@@ -142,7 +159,7 @@ a:hover, a:active, a:focus {
     margin-top: 15px;
     text-align: center;
     font-size: 13px;
-    color: #aaa;
+    color: var(--header-text-color);
     margin-bottom: 0;
   }
 
@@ -193,12 +210,12 @@ a:hover, a:active, a:focus {
 /* Navigation-Clean */
 
 .navigation-clean {
-    background: var(--page-background);
+    background: var(--header-background);
     padding-top: .75rem;
     padding-bottom: .75rem;
     color: #333;
     border-radius: 0;
-    box-shadow: none;
+    box-shadow: 0 -0.1rem 1rem .2rem #8f8f8f;
     border: none;
     margin-bottom: 0;
   }
@@ -212,19 +229,20 @@ a:hover, a:active, a:focus {
   
   .navigation-clean .navbar-brand {
     font-weight: bold;
-    color: inherit;
+    color: var(--nav-highlight);
   }
   
   .navigation-clean .navbar-brand:hover {
-    color: #222;
+    color: var(--nav-highlight);
   }
   
   .navigation-clean .navbar-toggler {
     border-color: #ddd;
+    background-color: var(--header-text-color-highlight);
   }
   
   .navigation-clean .navbar-toggler:hover, .navigation-clean .navbar-toggler:focus {
-    background: none;
+    background-color: var(--header-text-color-highlight);
   }
   
   .navigation-clean .navbar-toggler {
@@ -235,8 +253,15 @@ a:hover, a:active, a:focus {
     border-top-color: #ddd;
   }
   
-  .navigation-clean.navbar-light .navbar-nav .nav-link.active, .navigation-clean.navbar-light .navbar-nav .nav-link.active:focus, .navigation-clean.navbar-light .navbar-nav .nav-link.active:hover {
+  .navigation-clean.navbar-light .navbar-nav .nav-link.active:focus, .navigation-clean.navbar-light .navbar-nav .nav-link.active:hover {
     color: #f1eaf7;
+    box-shadow: none;
+    background: none;
+    pointer-events: none;
+  }
+
+  .navigation-clean.navbar-light .navbar-nav .nav-link.active {
+    color: var(--header-text-color-highlight);
     box-shadow: none;
     background: none;
     pointer-events: none;
@@ -248,7 +273,7 @@ a:hover, a:active, a:focus {
   }
   
   .navigation-clean.navbar-light .navbar-nav .nav-link {
-    color: #465765;
+    color: var(--header-text-color);
   }
   
   .navigation-clean.navbar-light .navbar-nav .nav-link:focus, .navigation-clean.navbar-light .navbar-nav .nav-link:hover {
@@ -259,21 +284,21 @@ a:hover, a:active, a:focus {
   .navigation-clean .navbar-nav > li > .dropdown-menu {
     margin-top: -5px;
     box-shadow: none;
-    background-color: var(--page-background);
+    background-color: var(--header-background);
     border-radius: 2px;
   }
   
   .navigation-clean .dropdown-menu .dropdown-item:focus, .navigation-clean .dropdown-menu .dropdown-item {
     line-height: 2;
-    color: #37434d;
+    color: var(--header-text-color);
   }
   
   .navigation-clean .dropdown-menu .dropdown-item:focus, .navigation-clean .dropdown-menu .dropdown-item:hover {
     background: #eee;
-    color: inherit;
+    color: var(--header-text-color);
   }
 
-/* Projects-CLean */
+/* Projects-Clean */
 
 .projects-clean {
     color: var(--text-color);
