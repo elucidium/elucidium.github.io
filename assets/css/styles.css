@@ -138,6 +138,7 @@ p {
 .connect-row {
   padding: 15px 0px;
   color: #00a896;
+  margin-bottom: 5vh;
 }
 
 .jumbotron.d-lg-flex.justify-content-lg-center.align-items-lg-center {
