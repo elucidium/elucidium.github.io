@@ -47,26 +47,19 @@ particlesJS('particles', {
         "polygon": {
           "nb_sides": 6
         },
+        "image": {
+          "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Benzene_circle.svg/2000px-Benzene_circle.svg.png",
+          "width": 10,
+          "height": 10
+        }
       },
       "opacity": {
         "value": 0.2,
-        "random": false,
-        "anim": {
-          "enable": false,
-          "speed": 1,
-          "opacity_min": 0.1,
-          "sync": false
-        }
+        "random": false
       },
       "size": {
         "value": 5,
-        "random": true,
-        "anim": {
-          "enable": false,
-          "speed": 40,
-          "size_min": 0.1,
-          "sync": false
-        }
+        "random": true
       },
       "line_linked": {
         "enable": true,
@@ -77,21 +70,16 @@ particlesJS('particles', {
       },
       "move": {
         "enable": true,
-        "speed": 2,
+        "speed": 1.5,
         "direction": "none",
         "random": false,
         "straight": false,
         "out_mode": "bounce",
-        "bounce": false,
-        "attract": {
-          "enable": false,
-          "rotateX": 600,
-          "rotateY": 1200
-        }
+        "bounce": false
       }
     },
     "interactivity": {
-      "detect_on": "canvas",
+      "detect_on": "window",
       "events": {
         "onhover": {
           "enable": true,
@@ -99,7 +87,7 @@ particlesJS('particles', {
         },
         "onclick": {
           "enable": true,
-          "mode": "repulse"
+          "mode": "push"
         },
         "resize": true
       },
@@ -111,9 +99,8 @@ particlesJS('particles', {
           "opacity": 0.1,
           "speed": 3
         },
-        "repulse": {
-          "distance": 100,
-          "duration": 3,
+        "push": {
+          "particles_nb": 1
         }
       }
     },
