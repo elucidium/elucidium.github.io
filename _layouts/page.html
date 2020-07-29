@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+  {% include head.html %}
+</head>
+
+<body>
+  <div class="text-center d-lg-flex justify-content-lg-center align-items-lg-end" style="background: linear-gradient(#028090, rgb(253,255,227));height: 100px;">
+      <h1 class="text-center d-inline-block" id="page-header" style="padding: 0px 30px;width: auto;text-transform:lowercase;">{{ page.title }}</h1>
+      <p class="text-center d-inline-block"></p>
+  </div>
+  <div class="container">
+      <div class="row d-lg-flex justify-content-lg-center content-row">
+          <div class="col post">
+            <article class="page">
+              <div class="entry">
+                {{ content }}
+              </div>
+            </article>
+          </div>
+      </div>
+      <div class="row d-lg-flex justify-content-lg-center content-row">
+        <div class="col text-center">
+          <a href="{{ site.baseurl }}/">back to homepage</a>
+        </div>
+    </div>
+  </div>
+</body
+
+</html>

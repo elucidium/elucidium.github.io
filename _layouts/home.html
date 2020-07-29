@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
+    {% include head.html %}
+</head>
+
+<body>
+    <div id="particles"></div>
+    <div class="jumbotron d-lg-flex justify-content-lg-center align-items-lg-center">
+        <div class="text-center" id="page-header-div" style="z-index: 10;">
+            <h1 class="text-center d-inline-block fade-in" id="page-header">Hi! Nice to meet you.</h1>
+            <p class="text-center d-inline-block fade-in" id="page-intro">My name is Ruiran Xun, and I am a rising junior at Carnegie Mellon University studying <strong>chemistry</strong>, <strong>computer science</strong>, and <strong>collaborative piano</strong>. Thank you for visiting, and feel
+                free to browse around!</p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 text-right section-header-left fade-in">
+                <h1>chemistry</h1>
+            </div>
+        </div>
+        <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
+            <div class="col">
+                <p>I'm currently involved in research on <strong>polymer synthesis</strong> in the <a href="http://www.chem.cmu.edu/groups/noonan/index.html">Noonan group</a> at Carnegie Mellon University. In the summer of 2017, I also
+                    conducted research with the <a href="https://www.porcogroup.com/">Porco group</a> at Boston University, during which I studied a <strong>novel synthesis of indoles</strong> with concurrent group migration (the poster
+                    can be found <a href="{{ site.baseurl }}/assets/pdf/rise-poster.pdf">here</a>).</p>
+            </div>
+        </div>
+        <div class="row justify-content-end">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 section-header-right fade-in">
+                <h1>computer science</h1>
+            </div>
+        </div>
+        <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
+            <div class="col">
+                <p>I am working towards completing an additional major in computer science alongside my chemistry degree, and have been a <strong>teaching assistant</strong> for <a href="https://www.cs.cmu.edu/~15122/">15-122</a>, an introductory
+                    course at CMU, since the fall of 2019. This summer, I am taking two CS courses and working remotely as a <strong>software engineering intern</strong> at Network Medical Management. I am also a <strong>Rewriting the Code fellow</strong>                    for the 2020–2021 year.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-11 col-sm-6 col-md-5 col-lg-4 col-xl-3 subsection-header fade-in">
+                <h3 class="text-center">projects</h3>
+            </div>
+        </div>
+        <div class="row d-xl-flex justify-content-xl-center content-row">
+            <div class="col">
+                <div class="row justify-content-center">
+                    <div class="col-3 project-card fade-in">
+                        <h5>FoodMood</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://github.com/elucidium/foodmood-ses"><i class="fa fa-github"></i></a></div>
+                            <div class="col-auto"><a href="https://ruiran.me/foodmood-ses/"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <p>An app that allows the user to search for local restaurants serving whatever food fits their mood. Successful final round submission to Capital One's May 2020 Software Engineering Summit.</p>
+                        <p class="item-label">Bootstrap</p>
+                        <p class="item-label">HTML5 Geolocation API</p>
+                        <p class="item-label">Yelp Fusion API</p>
+                        <p class="item-label">Esri ArcGIS API</p>
+                        <p class="item-label">CORS Anywhere</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>Project Planner</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://github.com/elucidium/project-planner"><i class="fa fa-github"></i></a></div>
+                            <div class="col-auto"><a href="https://planner.ruiran.me/"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <p>A Firebase web app made for students to better manage their time by breaking down class projects and assignments into smaller, more manageable milestones.</p>
+                        <p class="item-label">Firebase Authentication</p>
+                        <p class="item-label">Firebase Realtime Database</p>
+                        <p class="item-label">JavaScript</p>
+                        <p class="item-label">jQuery</p>
+                        <p class="item-label">Bootstrap</p>
+                        <p class="item-label">JsRender</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>JsRender/Flask Demo</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://github.com/elucidium/jsrender-flask-demo"><i class="fa fa-github"></i></a></div>
+                        </div>
+                        <p>A demo application that uses JsRender templates alongside Flask.</p>
+                        <p class="item-label">JsRender</p>
+                        <p class="item-label">Flask</p>
+                        <p class="item-label">Python</p>
+                        <p class="item-label">JavaScript</p>
+                        <p class="item-label">jQuery</p>
+                        <p class="item-label">Bootstrap</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 text-right section-header-left fade-in">
+                <h1>collaborative piano</h1>
+            </div>
+        </div>
+        <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
+            <div class="col">
+                <p>I've worked on many theatrical productions as a music director and/or pianist in both student-produced and professional capacities. At CMU, I am heavily involved in Scotch'n'Soda Theatre, notably <strong>music directing</strong> the
+                    2019 Carnival production of <em>MAMMA MIA!</em>. I was also a <strong>resident artist pianist</strong> for the Pittsburgh Festival Opera in the summer of 2019, and most recently have worked as a <strong>rehearsal pianist</strong> for
+                    the CMU School of Music's productions of <em>The Light in the Piazza</em> and <em>The Turn of the Screw</em>.</p>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-11 col-sm-6 col-md-5 col-lg-4 col-xl-3 subsection-header fade-in">
+                <h3 class="text-center">performances</h3>
+            </div>
+        </div>
+        <div class="row d-xl-flex justify-content-xl-center content-row">
+            <div class="col">
+                <div class="row justify-content-center">
+                    <div class="col-3 project-card fade-in">
+                        <h5>This Side Up</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://www.youtube.com/watch?v=xkq9TU1V5Lo"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <h6>COMPANY</h6>
+                        <p>CMU School of Music</p>
+                        <h6>ROLES</h6>
+                        <p>pianist</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>Side by Side by Side</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://www.youtube.com/watch?v=DQADK3WWsYw"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <h6>COMPANY</h6>
+                        <p>Scotch'n'Soda Theatre</p>
+                        <h6>ROLES</h6>
+                        <p>pianist, music director, audio editor</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>PianOpera</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://www.youtube.com/watch?v=l7qj9mLp0u8"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <h6>COMPANY</h6>
+                        <p>Pittsburgh Festival Opera</p>
+                        <h6>ROLES</h6>
+                        <p>pianist</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-end">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 section-header-right fade-in">
+                <h1>resume/cv</h1>
+            </div>
+        </div>
+        <div class="row d-xl-flex justify-content-xl-center content-row fade-in">
+            <div class="col">
+                <ul>
+                    <li><a href="{{ site.baseurl }}/assets/pdf/xun-ruiran-chem-public.pdf">chemistry resume</a> (last updated 04/15/2020)</li>
+                    <li><a href="{{ site.baseurl }}/assets/pdf/xun-ruiran-cs-public.pdf">computer science resume</a> (last updated 07/02/2020)</li>
+                    <li><a href="{{ site.baseurl }}/assets/pdf/xun-ruiran-music-public.pdf">collaborative piano resume</a> (last updated 03/15/2020)</li>
+                    <li><a href="{{ site.baseurl }}/assets/pdf/xun-ruiran-cv-public.pdf">curriculum vitae</a> (last updated 06/05/2020)</li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 text-right section-header-left fade-in">
+                <h1>other links</h1>
+            </div>
+        </div>
+        
+        <div class="row d-xl-flex justify-content-xl-center content-row fade-in">
+            <div class="col">
+                <ul>
+                    <li><a href="{{ site.baseurl }}/courses">Courses @ CMU</a></li>
+                    <li><a href="https://maestramusic.org/profile/ruiran-xun/">Maestra profile</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row justify-content-end">
+            <div class="col-11 col-sm-9 col-md-7 col-lg-6 col-xl-5 section-header-right fade-in">
+                <h1>let's connect!</h1>
+            </div>
+        </div>
+        <div class="row justify-content-center connect-row fade-in">
+            <div class="col-1 connect-icon">
+                <h1 class="text-center"><a href="mailto:xun.ruiran@gmail.com"><i class="fa fa-envelope"></i></a></h1>
+            </div>
+            <div class="col-1 connect-icon">
+                <h1 class="text-center"><a href="https://www.linkedin.com/in/ruiran-xun/"><i class="fa fa-linkedin-square"></i></a></h1>
+            </div>
+            <div class="col-1 connect-icon">
+                <h1 class="text-center"><a href="https://github.com/elucidium"><i class="fa fa-github"></i></a></h1>
+            </div>
+            <div class="col-1 connect-icon">
+                <h1 class="text-center"><a href="https://soundcloud.com/ruiran-xun"><i class="fa fa-soundcloud"></i></a></h1>
+            </div>
+        </div>
+    </div>
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/particles.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/script.js"></script>
+</body>
+
+</html>

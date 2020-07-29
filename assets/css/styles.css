@@ -119,6 +119,7 @@ container > .row {
   padding: 0px;
   margin: 0px;
   max-width: 100%;
+  margin-bottom: 5vh;
 }
 
 #page-header-div {
@@ -138,7 +139,6 @@ p {
 .connect-row {
   padding: 15px 0px;
   color: #00a896;
-  margin-bottom: 5vh;
 }
 
 .jumbotron.d-lg-flex.justify-content-lg-center.align-items-lg-center {
@@ -189,4 +189,26 @@ p {
   opacity: 1;
   transform: none;
   visibility: visible;
+}
+
+.post h2 {
+  color: #05668d;
+  font-weight: 600;
+  padding-top: 15px;
+  margin-bottom: 0px;
+}
+
+.post h3 {
+  color: #028090;
+  font-size: 1.5rem;
+  padding-top: 5px;
+}
+
+.post p {
+  padding-top: 3px;
+  margin-bottom: 0px;
+}
+
+.post ul {
+  margin-bottom: 0px;
 }
