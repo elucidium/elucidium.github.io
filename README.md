@@ -10,6 +10,4 @@ My personal website! Some implementation details:
 ## Changelog
 - 20200324: Initial design (multi-page)
 - 20200725: Redesign (single page, JS animations/effects)
-<<<<<<< HEAD
-<<<<<<< HEAD
 - 20200728: Migrated design to Jekyll using the [github-pages](https://github.com/github/pages-gem) gem
