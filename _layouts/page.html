@@ -7,12 +7,12 @@
 </head>
 
 <body>
-  <div class="text-center d-lg-flex justify-content-lg-center align-items-lg-end" style="background: linear-gradient(#028090, rgb(253,255,227));height: 100px;">
-      <h1 class="text-center d-inline-block" id="page-header" style="padding: 0px 30px;width: auto;text-transform:lowercase;">{{ page.title }}</h1>
-      <p class="text-center d-inline-block"></p>
+  <div id="particles" style="height: 150px;"></div>
+  <div class="text-center d-lg-flex justify-content-lg-center align-items-lg-center" style="background: linear-gradient(#028090, rgb(253,255,227));height: 150px;">
+      <h1 class="text-center d-inline-block fade-in" id="page-header" style="text-transform:lowercase;">{{ page.title }}</h1>
   </div>
   <div class="container">
-      <div class="row d-lg-flex justify-content-lg-center content-row">
+      <div class="row d-lg-flex justify-content-lg-center justify-content-md-center content-row fade-in">
           <div class="col post">
             <article class="page">
               <div class="entry">
@@ -21,12 +21,16 @@
             </article>
           </div>
       </div>
-      <div class="row d-lg-flex justify-content-lg-center content-row">
+      <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
         <div class="col text-center">
           <a href="{{ site.baseurl }}/">back to homepage</a>
         </div>
     </div>
   </div>
-</body
+  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/particles.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/script.js"></script>
+</body>
 
 </html>

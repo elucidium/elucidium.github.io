@@ -29,8 +29,12 @@ I spent five weeks doing research through CMU's Summer Undergraduate Research Ap
 
 I really enjoyed this summer! I was incredibly fortunate to have had the opportunities to explore multiple fields of interest.
 
+### Courses
+- (99270) Summer Undergraduate Research Apprenticeship
+
 ## Fall 2019
 ### Courses
+- **TA (15-122)**
 - (09201) Undergraduate Seminar I
 - (09219) Modern Organic Chemistry
 - (09221) Laboratory I: Introduction to Chemical Analysis
@@ -40,6 +44,7 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 
 ## Spring 2020
 ### Courses
+- **TA (15-122)**
 - (09202) Undergraduate Seminar II: Safety and Environmental Issues for Chemists
 - (09204) Professional Communication Skills in Chemistry
 - (09220) Modern Organic Chemistry II
@@ -57,3 +62,18 @@ I originally had another internship offer lined up, but the program was cancelle
 ### Courses
 - (15150) Principles of Functional Programming
 - (15213) Introduction to Computer Systems
+
+## Fall 2020
+### Courses (planned)
+- **Lead TA (15-122)**
+- (09301) Undergraduate Seminar III
+- (09344) Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
+- (15210) Parallel and Sequential Data Structures and Algorithms
+- (15316) Software Foundations of Security and Privacy
+- (15455) Undergraduate Complexity Theory
+- (17200) Ethics and Policy Issues in Computing
+- (38110) ENGAGE in Service
+- (38330) ENGAGE in Wellness: Looking Outward
+- (57221) Italian Diction
+- (57332) Introduction to Conducting
+- (57385) Collaborative Piano V
