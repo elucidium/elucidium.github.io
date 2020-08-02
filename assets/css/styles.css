@@ -141,7 +141,7 @@ p {
   color: #00a896;
 }
 
-.jumbotron.d-lg-flex.justify-content-lg-center.align-items-lg-center {
+.jumbotron.d-flex.justify-content-center.align-items-center {
   background: linear-gradient(#028090, rgb(253,255,227));
   background-color: rgba(240,243,189,0.4);
   border-radius: 0;
