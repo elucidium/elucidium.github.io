@@ -49,17 +49,17 @@
             <div class="col">
                 <div class="row justify-content-center">
                     <div class="col-3 project-card fade-in">
-                        <h5>FoodMood</h5>
+                        <h5>ChemBot</h5>
                         <div class="row justify-content-center">
-                            <div class="col-auto"><a href="https://github.com/elucidium/foodmood-ses"><i class="fa fa-github"></i></a></div>
-                            <div class="col-auto"><a href="https://ruiran.me/foodmood-ses/"><i class="fa fa-external-link"></i></a></div>
+                            <div class="col-auto"><a href="https://github.com/elucidium/ChemBot"><i class="fa fa-github"></i></a></div>
                         </div>
-                        <p>An app that allows the user to search for local restaurants serving whatever food fits their mood. Successful final round submission to Capital One's May 2020 Software Engineering Summit.</p>
-                        <p class="item-label">Bootstrap</p>
-                        <p class="item-label">HTML5 Geolocation API</p>
-                        <p class="item-label">Yelp Fusion API</p>
-                        <p class="item-label">Esri ArcGIS API</p>
-                        <p class="item-label">CORS Anywhere</p>
+                        <p>A Discord bot for querying and displaying chemical information.</p>
+                        <p class="item-label">Python</p>
+                        <p class="item-label">Selenium</p>
+                        <p class="item-label">Heroku</p>
+                        <p class="item-label">Discord API</p>
+                        <p class="item-label">ChemSpider API</p>
+                        <p class="item-label">Wolfram|Alpha API</p>
                     </div>
                     <div class="col-3 project-card fade-in">
                         <h5>Project Planner</h5>
@@ -87,6 +87,28 @@
                         <p class="item-label">JavaScript</p>
                         <p class="item-label">jQuery</p>
                         <p class="item-label">Bootstrap</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>FoodMood</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://github.com/elucidium/foodmood-ses"><i class="fa fa-github"></i></a></div>
+                            <div class="col-auto"><a href="https://ruiran.me/foodmood-ses/"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <p>An app that allows the user to search for local restaurants serving whatever food fits their mood. Successful final round submission to Capital One's May 2020 Software Engineering Summit.</p>
+                        <p class="item-label">Bootstrap</p>
+                        <p class="item-label">HTML5 Geolocation API</p>
+                        <p class="item-label">Yelp Fusion API</p>
+                        <p class="item-label">Esri ArcGIS API</p>
+                        <p class="item-label">CORS Anywhere</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
+                        <h5>Personal Website</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="https://github.com/elucidium/elucidium.github.io"><i class="fa fa-github"></i></a></div>
+                        </div>
+                        <p>This website! A Jekyll website designed to be fully responsive and deployed on a secured custom domain through Github Pages.</p>
+                        <p class="item-label">Bootstrap</p>
+                        <p class="item-label">Jekyll</p>
                     </div>
                 </div>
             </div>
@@ -193,10 +215,7 @@
             </div>
         </div>
     </div>
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/bootstrap/js/bootstrap.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/particles.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/script.js"></script>
+    {% include scripts.html %}
 </body>
 
 </html>
