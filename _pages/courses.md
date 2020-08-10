@@ -25,7 +25,7 @@ permalink: /courses/
 - (76108) Writing about Public Problems
 
 ## Summer 2019
-I spent five weeks doing research through CMU's Summer Undergraduate Research Apprenticeship with the Noonan lab, then worked with the Pittsburgh Festival Opera as a Resident Artist Pianist for six weeks.
+I spent five weeks doing **polymer synthesis research** through CMU's Summer Undergraduate Research Apprenticeship with the Noonan lab, then worked with the Pittsburgh Festival Opera as a **resident artist pianist** for six weeks.
 
 I really enjoyed this summer! I was incredibly fortunate to have had the opportunities to explore multiple fields of interest.
 
@@ -57,7 +57,7 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 - (57436) English/Contemporary Literature and Repertoire
 
 ## Summer 2020
-I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work at Network Medical Management as a software engineer intern.
+I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work at Network Medical Management as a **software engineer intern**.
 
 ### Courses
 - (15150) Principles of Functional Programming
@@ -69,11 +69,22 @@ I originally had another internship offer lined up, but the program was cancelle
 - (09301) Undergraduate Seminar III
 - (09344) Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
 - (15210) Parallel and Sequential Data Structures and Algorithms
+- (15312) Foundations of Programming Languages
 - (15316) Software Foundations of Security and Privacy
-- (15455) Undergraduate Complexity Theory
-- (17200) Ethics and Policy Issues in Computing
 - (38110) ENGAGE in Service
 - (38330) ENGAGE in Wellness: Looking Outward
 - (57221) Italian Diction
 - (57332) Introduction to Conducting
 - (57385) Collaborative Piano V
+
+## Spring 2021
+### Courses (planned)
+- **Lead TA (15-122)**
+- (09302) Undergraduate Seminar IV
+- (09321) Laboratory III: Molecular Design and Synthesis
+- (09331) Modern Analytical Instrumentation
+- (09345) Physical Chemistry (Thermo): Macroscopic Principles of Physical Chemistry
+- (09510) Chemistry and Sustainability
+- (38430) ENGAGE in Wellness: Looking Forward
+- (57386) Collaborative Piano VI
+- (76270) Writing for the Professions

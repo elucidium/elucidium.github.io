@@ -274,7 +274,7 @@ table tr {
 }
 
 table tr:nth-child(2n) {
-	background-color: #05668d40;
+	background-color: #05668d20;
 }
 
 table tr th {
@@ -282,16 +282,16 @@ table tr th {
   border: 1px solid #05668d;
   background-color: #05668dd0;
   color: white;
-	text-align: left;
+	text-align: center;
 	margin: 0;
-	padding: 6px 13px;
+	padding: 3px 10px;
 }
 
 table tr td {
 	border: 1px solid #05668d;
 	text-align: center;
 	margin: 0;
-	padding: 6px 13px;
+	padding: 3px 10px;
 }
 
 table tr th :first-child,
