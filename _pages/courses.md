@@ -59,6 +59,8 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 ## Summer 2020
 I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work at Network Medical Management as a **software engineer intern**.
 
+I'm genuinely surprised that this summer worked out as well as it did, given that I lost my initial summer plans. That being said, I'm incredibly fortunate that I was able to quarantine with family, focusing solely on my coursework and the full-stack development I did at my internship.
+
 ### Courses
 - (15150) Principles of Functional Programming
 - (15213) Introduction to Computer Systems
