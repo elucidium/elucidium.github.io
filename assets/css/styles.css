@@ -172,10 +172,12 @@ p {
 
 .content-row > .col > p {
   margin: 0px;
+  margin-bottom: 10px;
 }
 
 .content-row > .col > ul {
   margin: 0px;
+  margin-bottom: 10px;
 }
 
 .fade-in {
