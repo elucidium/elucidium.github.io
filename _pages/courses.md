@@ -66,13 +66,12 @@ I'm genuinely surprised that this summer worked out as well as it did, given tha
 - (15213) Introduction to Computer Systems
 
 ## Fall 2020
-### Courses (planned)
+### Courses
 - **Lead TA (15-122)**
 - (09301) Undergraduate Seminar III
 - (09344) Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
 - (15210) Parallel and Sequential Data Structures and Algorithms
 - (15312) Foundations of Programming Languages
-- (15316) Software Foundations of Security and Privacy
 - (38110) ENGAGE in Service
 - (38330) ENGAGE in Wellness: Looking Outward
 - (57221) Italian Diction
