@@ -4,11 +4,13 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
+(☆: courses that ended up being highlights of my semesters)
+
 ## Fall 2018
 ### Courses
 - (03121) Modern Biology
 - (09107) Honors Chemistry: Fundamentals, Concepts, and Applications
-- (21127) Concepts of Mathematics
+- (21127) Concepts of Mathematics ☆
 - (38101) EUREKA!: Discovery and Its Impact
 - (57381) Collaborative Piano I
 - (82343) Latin America: Language and Culture
@@ -16,7 +18,7 @@ permalink: /courses/
 
 ## Spring 2019
 ### Courses
-- (09348) Inorganic Chemistry
+- (09348) Inorganic Chemistry ☆
 - (15122) Principles of Imperative Computation
 - (21241) Matrices and Linear Transformations
 - (21259) Calculus in Three Dimensions
@@ -36,9 +38,9 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 ### Courses
 - **TA (15-122)**
 - (09201) Undergraduate Seminar I
-- (09219) Modern Organic Chemistry
+- (09219) Modern Organic Chemistry ☆
 - (09221) Laboratory I: Introduction to Chemical Analysis
-- (15251) Great Ideas in Theoretical Computer Science
+- (15251) Great Ideas in Theoretical Computer Science ☆
 - (21325) Probability
 - (57383) Collaborative Piano III
 
@@ -47,8 +49,8 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 - **TA (15-122)**
 - (09202) Undergraduate Seminar II: Safety and Environmental Issues for Chemists
 - (09204) Professional Communication Skills in Chemistry
-- (09220) Modern Organic Chemistry II
-- (09222) Laboratory II: Organic Synthesis and Analysis
+- (09220) Modern Organic Chemistry II ☆
+- (09222) Laboratory II: Organic Synthesis and Analysis ☆
 - (09445) Undergraduate Research
 - (33142) Physics II for Engineering and Physics Students
 - (38220) ENGAGE in the Arts
@@ -62,7 +64,7 @@ I originally had another internship offer lined up, but the program was cancelle
 I'm genuinely surprised that this summer worked out as well as it did, given that I lost my initial summer plans. That being said, I'm incredibly fortunate that I was able to quarantine with family, focusing solely on my coursework and the full-stack development I did at my internship.
 
 ### Courses
-- (15150) Principles of Functional Programming
+- ☆ (15150) Principles of Functional Programming
 - (15213) Introduction to Computer Systems
 
 ## Fall 2020
@@ -71,21 +73,37 @@ I'm genuinely surprised that this summer worked out as well as it did, given tha
 - (09301) Undergraduate Seminar III
 - (09344) Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
 - (15210) Parallel and Sequential Data Structures and Algorithms
-- (15312) Foundations of Programming Languages
+- (15312) Foundations of Programming Languages ☆
 - (38110) ENGAGE in Service
 - (38330) ENGAGE in Wellness: Looking Outward
 - (57221) Italian Diction
-- (57332) Introduction to Conducting
+- (57332) Introduction to Conducting ☆
 - (57385) Collaborative Piano V
 
 ## Spring 2021
-### Courses (planned)
+### Courses
 - **Lead TA (15-122)**
 - (09302) Undergraduate Seminar IV
 - (09321) Laboratory III: Molecular Design and Synthesis
 - (09331) Modern Analytical Instrumentation
 - (09345) Physical Chemistry (Thermo): Macroscopic Principles of Physical Chemistry
 - (09510) Chemistry and Sustainability
-- (38430) ENGAGE in Wellness: Looking Forward
+- (57336) Instrumental/Choral Conducting
 - (57386) Collaborative Piano VI
+- (80180) Nature of Language
+
+## Fall 2021
+### Courses (planned, incomplete)
+- **Lead TA (15-122)**
+- (09401) Undergraduate Seminar V
+- (15281) Artificial Intelligence: Representation and Problem Solving
+- (15411) Compiler Design
+- (38430) ENGAGE in Wellness: Looking Forward
 - (76270) Writing for the Professions
+
+## Spring 2022
+### Courses (planned, incomplete)
+- **Lead TA (15-122)**
+- (09322) Laboratory IV: Molecular Spectroscopy and Dynamics
+- (09402) Undergraduate Seminar VI
+- (15451) Algorithm Design and Analysis
