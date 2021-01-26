@@ -4,7 +4,9 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
-(☆: courses that ended up being highlights of my semesters)
+This page is inspired by [some](https://wanshenl.me/courses/reviews/) [similar](https://thenumbat.github.io/cmu/) [pages](https://pranavkumar.me/courses/) I've seen before and mostly exists for me to reflect upon my experience completing two (very disjoint) degrees at CMU in four years.
+
+A ☆ indicates a course that was particularly engaging and interesting to me (relative to other courses in that semester).
 
 ## Fall 2018
 ### Courses
@@ -36,7 +38,7 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 
 ## Fall 2019
 ### Courses
-- **TA (15-122)**
+- **TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/19F-CMU-CS122/))**
 - (09201) Undergraduate Seminar I
 - (09219) Modern Organic Chemistry ☆
 - (09221) Laboratory I: Introduction to Chemical Analysis
@@ -45,8 +47,11 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 - (57383) Collaborative Piano III
 
 ## Spring 2020
+
+This was the semester that completely shifted to remote halfway through; the shift ended up not being much of an issue for all of my courses except for 09222 (which transitioned to writing lab reports pre-recorded experiment footage and data) and 09445 (which unfortunately just had to completely stop). Additionally, as a TA I had to adjust to teaching remotely (shoutout to SCS for helping us out by reimbursing TAs for tablets).
+
 ### Courses
-- **TA (15-122)**
+- **TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/20S-CMU-CS122/))**
 - (09202) Undergraduate Seminar II: Safety and Environmental Issues for Chemists
 - (09204) Professional Communication Skills in Chemistry
 - (09220) Modern Organic Chemistry II ☆
@@ -59,17 +64,21 @@ I really enjoyed this summer! I was incredibly fortunate to have had the opportu
 - (57436) English/Contemporary Literature and Repertoire
 
 ## Summer 2020
+
 I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work at Network Medical Management as a **software engineer intern**.
 
 I'm genuinely surprised that this summer worked out as well as it did, given that I lost my initial summer plans. That being said, I'm incredibly fortunate that I was able to quarantine with family, focusing solely on my coursework and the full-stack development I did at my internship.
 
 ### Courses
-- ☆ (15150) Principles of Functional Programming
+- (15150) Principles of Functional Programming ☆
 - (15213) Introduction to Computer Systems
 
 ## Fall 2020
+
+This semester felt like a rough ride all the way through given pandemic circumstances; it was hard at times to figure out whether I was doing more than I could handle or if remote learning was making everything more difficult. I ended up dropping a course (15316: Software Foundations of Security and Privacy) so that I could spend more time on 09344 and 15312, a move which definitely served me well! I also got to teach recitations and take 57332 in-person (modulo COVID precautions), which made me feel a lot more grounded than I otherwise would have.
+
 ### Courses
-- **Lead TA (15-122)**
+- **Lead TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/20F-CMU-CS122/))**
 - (09301) Undergraduate Seminar III
 - (09344) Physical Chemistry (Quantum): Microscopic Principles of Physical Chemistry
 - (15210) Parallel and Sequential Data Structures and Algorithms
@@ -82,7 +91,7 @@ I'm genuinely surprised that this summer worked out as well as it did, given tha
 
 ## Spring 2021
 ### Courses
-- **Lead TA (15-122)**
+- **Lead TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/21S-CMU-CS122/))**
 - (09302) Undergraduate Seminar IV
 - (09321) Laboratory III: Molecular Design and Synthesis
 - (09331) Modern Analytical Instrumentation
@@ -107,3 +116,7 @@ I'm genuinely surprised that this summer worked out as well as it did, given tha
 - (09322) Laboratory IV: Molecular Spectroscopy and Dynamics
 - (09402) Undergraduate Seminar VI
 - (15451) Algorithm Design and Analysis
+
+## Post-graduation
+
+I have absolutely no clue what I'll be doing, and I really thought I'd have a more concrete idea by now. Guess I'll cross that bridge when I get there!
