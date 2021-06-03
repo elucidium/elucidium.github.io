@@ -65,7 +65,7 @@ This was the semester that completely shifted to remote halfway through; the shi
 
 ## Summer 2020
 
-I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work at Network Medical Management as a **software engineer intern**.
+I originally had another internship offer lined up, but the program was cancelled due to COVID-19. After receiving that news, I signed up for online summer courses at CMU and went through the re-hiring process on LinkedIn, eventually receiving an offer to work remotely at Network Medical Management as a **software engineer intern**.
 
 I'm genuinely surprised that this summer worked out as well as it did, given that I lost my initial summer plans. That being said, I'm incredibly fortunate that I was able to quarantine with family, focusing solely on my coursework and the full-stack development I did at my internship.
 
@@ -97,15 +97,21 @@ This semester felt like a rough ride all the way through given pandemic circumst
 - (09331) Modern Analytical Instrumentation
 - (09345) Physical Chemistry (Thermo): Macroscopic Principles of Physical Chemistry
 - (09510) Chemistry and Sustainability
-- (57336) Instrumental/Choral Conducting
+- (57336) Instrumental/Choral Conducting ☆
 - (57386) Collaborative Piano VI
-- (80180) Nature of Language
+- (80180) Nature of Language ☆
+
+## Summer 2021
+
+I am working remotely as a **software engineer intern** with Palo Alto Networks on the NGFW System-test QA team.
 
 ## Fall 2021
-### Courses (planned, incomplete)
+### Courses (planned)
 - **Lead TA (15-122)**
 - (09401) Undergraduate Seminar V
+- (09736) Transition Metal Catalysis for Organic and Polymer Synthesis
 - (15281) Artificial Intelligence: Representation and Problem Solving
+- (15317) Constructive Logic
 - (15411) Compiler Design
 - (38430) ENGAGE in Wellness: Looking Forward
 - (76270) Writing for the Professions
