@@ -103,18 +103,18 @@ This semester felt like a rough ride all the way through given pandemic circumst
 
 ## Summer 2021
 
-I am working remotely as a **software engineer intern** with Palo Alto Networks on the NGFW System-test QA team.
+I am working remotely as a **software engineer intern** with Palo Alto Networks on the NGFW System-test QA team. In addition, I am TAing the summer iteration of [15-122](https://www.cs.cmu.edu/~iliano/courses/21N-CMU-CS122/).
 
 ## Fall 2021
-### Courses (planned)
+### Courses
 - **Lead TA (15-122)**
 - (09401) Undergraduate Seminar V
 - (09736) Transition Metal Catalysis for Organic and Polymer Synthesis
 - (15281) Artificial Intelligence: Representation and Problem Solving
 - (15317) Constructive Logic
 - (15411) Compiler Design
+- (17200) Ethics and Policy Issues in Computing
 - (38430) ENGAGE in Wellness: Looking Forward
-- (76270) Writing for the Professions
 
 ## Spring 2022
 ### Courses (planned, incomplete)
