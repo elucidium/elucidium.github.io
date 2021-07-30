@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-
+<!--TODO use mustache.js-->
 <head>
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }}</title>
     {% include head.html %}
@@ -11,7 +11,7 @@
     <div class="jumbotron d-flex justify-content-center align-items-center">
         <div class="text-center" id="page-header-div" style="z-index: 10;">
             <h1 class="text-center d-inline-block fade-in" id="page-header">Hi! Nice to meet you.</h1>
-            <p class="text-center d-inline-block fade-in" id="page-intro">My name is Ruiran Xun, and I am a junior at Carnegie Mellon University studying <strong>chemistry</strong>, <strong>computer science</strong>, and <strong>collaborative piano</strong>. Thank you for visiting, and feel
+            <p class="text-center d-inline-block fade-in" id="page-intro">My name is Ruiran Xun, and I am a senior at Carnegie Mellon University studying <strong>chemistry</strong>, <strong>computer science</strong>, and <strong>collaborative piano</strong>. Thank you for visiting, and feel
                 free to browse around!</p>
         </div>
     </div>
@@ -144,9 +144,8 @@
         </div>
         <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
             <div class="col">
-                <p>I've worked on many theatrical productions as a music director and/or pianist in both student-produced and professional capacities. At CMU, I am heavily involved in Scotch'n'Soda Theatre, notably <strong>music directing</strong> the
-                    2019 Carnival production of <em>MAMMA MIA!</em>. I was also a <strong>resident artist pianist</strong> for the Pittsburgh Festival Opera in the summer of 2019, and most recently have worked as a <strong>rehearsal pianist</strong> for
-                    the CMU School of Music's productions of <em>The Light in the Piazza</em> and <em>The Turn of the Screw</em>.</p>
+                <p>I've worked on many theatrical productions as a music director and/or pianist in both student-produced and professional capacities. At CMU, I am heavily involved in Scotch'n'Soda Theatre in various music-adjacent and leadership roles. I was also a <strong>resident artist pianist</strong> for the Pittsburgh Festival Opera in the summer of 2019, and most recently have worked as a <strong>rehearsal pianist</strong> for
+                    the CMU School of Music's productions of <em>The Light in the Piazza</em> and <em>The Turn of the Screw</em>. A comprehensive overview of my musical experiences can be found <a href="{{ site.baseurl }}/music">here</a>.</p>
             </div>
         </div>
         <div class="row justify-content-center">
