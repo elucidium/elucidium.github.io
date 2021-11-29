@@ -103,7 +103,7 @@ This semester felt like a rough ride all the way through given pandemic circumst
 
 ## Summer 2021
 
-I worked remotely as a **software engineer intern** with Palo Alto Networks on the NGFW System-test QA team. In addition, I was a teaching assistant for the summer iteration of [15-122](https://www.cs.cmu.edu/~iliano/courses/21N-CMU-CS122/), and composed music for a play called *The Great Hunger* that premiered in NYC September 2021.
+I worked remotely as a **software engineer intern** with Palo Alto Networks on the NGFW System-test QA team. In addition, I was a teaching assistant for the summer iteration of [15-122](https://www.cs.cmu.edu/~iliano/courses/21N-CMU-CS122/), and composed music for a play named *The Great Hunger* that premiered in NYC September 2021.
 
 ## Fall 2021
 ### Courses
@@ -115,8 +115,11 @@ I worked remotely as a **software engineer intern** with Palo Alto Networks on t
 - (38430) ENGAGE in Wellness: Looking Forward
 
 ## Spring 2022
-### Courses (planned, incomplete)
-- **Lead TA (15-122)**
+### Courses
+- **Lead TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/22S-CMU-CS122/))**
+- (05391) Designing Human Centered Software
 - (09322) Laboratory IV: Molecular Spectroscopy and Dynamics
 - (09402) Undergraduate Seminar VI
+- (10335) Art and Machine Learning
 - (15451) Algorithm Design and Analysis
+- (76270) Writing for the Professions

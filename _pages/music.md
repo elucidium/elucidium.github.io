@@ -4,11 +4,13 @@ title: Music
 permalink: /music/
 ---
 
-This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! Long story short, I spend 95% of my time outside of academics working on music-related extracurriculars, and I wouldn't have it any other way.
+This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! I spend most of my time outside of work and academics on music-related extracurriculars, and I wouldn't have it any other way.
+
+Side note: once I graduate in May 2022 and move to the Bay Area for my full-time job I will be actively looking for opportunities, so please let me know if you have any in mind!
 
 ## Biography
 
-**Ruiran Xun** (she/her) is a Pittsburgh-based collaborative pianist and music director. She is a rising senior at Carnegie Mellon University studying chemistry and computer science, and outside of academics she is actively involved in theatre and other musical endeavors. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). She's currently the assistant conductor for the **CMU All-University Orchestra**, and continues to serve in various music direction-adjacent roles on productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization.
+**Ruiran Xun** (she/her) is a Pittsburgh-based collaborative pianist and music director. She is a senior at Carnegie Mellon University studying chemistry and computer science, and outside of academics she is actively involved in theatre and other musical endeavors. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). She's currently the assistant conductor for the **CMU All-University Orchestra**, and continues to serve in various music direction-adjacent roles on productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization.
 
 ## Productions and Performances
 
@@ -37,28 +39,37 @@ This page is intended to be a digital *curriculum vitae* for my musical endeavor
 - *11th Annual Benefit Cabaret* (pianist) @ Scotch'n'Soda Theatre, **10/2018**.
 - *Mary Poppins* (pianist) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
-### Recitals
+### Performances
+- *AUO Chamber Orchestra/Flutonium Concert* (**11/2021**). Conducted the Chamber Orchestra in Felix Mendelssohn's *Hebrides Overture*.
+- *Carnegie Mellon Wind Ensemble Concert* (**10/2021**). Performed in Francis Poulenc's [*Suite Francaise*](https://youtu.be/lnIBIgkspVs?t=2606) on harpsichord, Ned Rorem's [*Sinfonia for 15 Winds*](https://youtu.be/lnIBIgkspVs?t=5042) on piano and celesta, and Bernstein's [*Prelude, Fugue, and Riffs*](https://youtu.be/lnIBIgkspVs) on piano.
 - *Virtual Student Composer Concert* (**05/2021**). Performed in Joe Brauch’s [*Summer Silence*](https://youtu.be/GgOUdY8-mpo?t=20), [Bennett Garfield](https://www.bennettgarfield.com/)’s [*Winds*](https://youtu.be/GgOUdY8-mpo?t=597), and Matthew Zwiebel’s [*for Now: not Then, and who knows Later*](https://youtu.be/GgOUdY8-mpo?t=2990).
 - *Virtual Student Composer Concert* (**05/2020**). Performed in Joshua Gregg Fried’s [*UNDER CONTROL*](https://youtu.be/HlERgjDBkps?t=572) and Ian Kaneko’s [*The Soul has Bandaged Moments*](https://youtu.be/HlERgjDBkps?t=832).
 - *Pierre Vallet's Masterclass* (**09/2019**). Served as an alternate pianist.
 - *Freshman Showcase* (**05/2019**). Performed in Joshua Gregg Fried’s [*where the sidewalk ends*](https://youtu.be/mu2NX06uVao?t=3150) (on piano) and Matthew Zwiebel’s [*SEA*](https://youtu.be/mu2NX06uVao?t=1210) (on violin).
 - *Joe Brauch's Junior Composition Recital* (**05/2019**). Performed his solo [*Piano Sonata No. 1*](https://youtu.be/yb9cK0ddVj8?t=1060) and played in his chamber ensemble piece [*Mischief Night*](https://youtu.be/yb9cK0ddVj8?t=2585).
-- *Jieying Zhang's Master's Recital* (**04/2019**). Accompanied a lecture-style recital given in fulfillment of her music education degree.
+- *Jieying Zhang's Master's Recital* (**04/2019**). Accompanied the whole recital.
 
 ### Miscellaneous
 - *[Translating Belonging: German-Jewish Poetry in Classical Art Song](https://www.youtube.com/playlist?list=PLPwBA8ZVjdj2DCICJZHZd7Ev1H84Kwwyr)* (**05/2021**). Virtually collaborated with Anna Sophia Boyd on their [senior capstone project](https://translatingidentity.wordpress.com/) at CMU.
 - *[PianOpera!](https://www.youtube.com/watch?v=l7qj9mLp0u8)* (**07/2020**). Performed in a pianist-only showcase for Pittsburgh Festival Opera's summer season.
 
 ## Work Experience
-- **CMU School of Music** (accompanist), **09/2018–03/2020**, Pittsburgh, PA. Played piano for first- and second-year voice students' lessons, and worked as a rehearsal pianist for a few of the departments' opera productions.
+- **Scotch'n'Soda Theatre** (vice president), **05/2021 – present (ending 05/2022)**, Pittsburgh, PA. Serving as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.
+- **CMU All-University Orchestra** (assistant conductor), **05/2021 – present (ending 05/2022)**, Pittsburgh, PA. Also assisting with routine logistical operations as a member of the Board.
+- **Scotch'n'Soda Theatre** (secretary), **05/2019 – 05/2020**, Pittsburgh, PA. Served as secretary on the Board of Directors during my sophomore year, overseeing mainstage productions and writing a weekly update email to the organization. 
+- **CMU School of Music** (accompanist), **09/2018 – 03/2020**, Pittsburgh, PA. Played piano for first- and second-year voice students' lessons, and worked as a rehearsal pianist for a few of the departments' opera productions.
 - **[Pittsburgh Opera](https://www.pittsburghopera.org/)** (mobile app operator), **10/2019**, Pittsburgh, PA. Ran cues for curated content provided through the Pittsburgh Opera Mobile App during the company's run of *Don Giovanni*.
-- **Pittsburgh Festival Opera** (resident artist pianist), **06/2019–07/2019**, Pittsburgh, PA. Worked on multiple productions, as well as played piano for coachings, recitals, and cabarets in the Young Professional Artists Program.
+- **Pittsburgh Festival Opera** (resident artist pianist), **06/2019 – 07/2019**, Pittsburgh, PA. Worked on multiple productions, as well as played piano for coachings, recitals, and cabarets in the Young Professional Artists Program.
  
 ## Skills
-- **Instruments:** piano (15+ yrs), violin (10+ yrs), mallet percussion (2 yrs), voice (3+ yrs, caveat: everything I know is second-hand knowledge from playing piano for many, many rehearsals and voice lessons)
+- **Instruments:** piano (15+ yrs), violin (10+ yrs), mallet percussion (2 yrs in high school, primarily marimba), voice (3+ yrs, caveat: everything I know is second-hand knowledge from playing piano for many rehearsals and lessons, but I know enough to provide a healthy foundation and basic guidance to untrained vocalists at least in the context of musical theatre)
 - **Software:** MainStage, Dorico, Logic Pro, GarageBand, Audacity
-- **Other:** conducting, music direction, sightreading, transcription, absolute pitch (I suppose the last one's technically not a skill...)
+- **Other:** conducting, music direction, sightreading (high proficiency), transcription, learning music quickly (some highlights: sightreading *Sweeney Todd*'s piano/vocal score for a full run and learning *The Turn of the Screw*'s reduced piano part in under two weeks), absolute pitch (I suppose this one is technically not a learned skill)
 
 ## References
 
 References available upon [request](mailto:xun.ruiran@gmail.com).
+
+<br/>
+
+(The formatting of this page is somewhat inspired by [Dave Malloy](https://davemalloy.com/resume.html), who also happens to be one of my biggest musical inspirations.)
