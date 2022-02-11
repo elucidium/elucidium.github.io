@@ -4,7 +4,7 @@ title: Courses @ CMU
 permalink: /courses/
 ---
 
-This page is inspired by [some](https://wanshenl.me/courses/reviews/) [similar](https://thenumbat.github.io/cmu/) [pages](https://pranavkumar.me/courses/) I've seen before and mostly exists for me to reflect upon my experience completing two (very disjoint) degrees at CMU in four years.
+This page is inspired by [some](https://wanshenl.me/courses/reviews/) [similar](https://pranavkumar.me/courses/) [pages](https://abigalekim.github.io/courses/) I've seen before and mostly exists for me to reflect upon my experience completing two (very disjoint) degrees at CMU in four years.
 
 A ☆ indicates a course that was particularly engaging and interesting to me (relative to other courses in that semester).
 
@@ -110,8 +110,8 @@ I worked remotely as a **software engineer intern** with Palo Alto Networks on t
 - **Lead TA ([15-122](https://www.cs.cmu.edu/~iliano/courses/21F-CMU-CS122/))**
 - (09401) Undergraduate Seminar V
 - (15281) Artificial Intelligence: Representation and Problem Solving
-- (15317) Constructive Logic
-- (15411) Compiler Design
+- (15317) Constructive Logic ☆
+- (15411) Compiler Design ☆
 - (38430) ENGAGE in Wellness: Looking Forward
 
 ## Spring 2022
@@ -120,6 +120,7 @@ I worked remotely as a **software engineer intern** with Palo Alto Networks on t
 - (05391) Designing Human Centered Software
 - (09322) Laboratory IV: Molecular Spectroscopy and Dynamics
 - (09402) Undergraduate Seminar VI
-- (10335) Art and Machine Learning
 - (15451) Algorithm Design and Analysis
+- (15591) Independent Study
+- (54430) Production Prep: Preludes (Sound)
 - (76270) Writing for the Professions

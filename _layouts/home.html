@@ -11,8 +11,10 @@
     <div class="jumbotron d-flex justify-content-center align-items-center">
         <div class="text-center" id="page-header-div" style="z-index: 10;">
             <h1 class="text-center d-inline-block fade-in" id="page-header">Hi! Nice to meet you.</h1>
-            <p class="text-center d-inline-block fade-in" id="page-intro">My name is Ruiran Xun, and I am a senior at Carnegie Mellon University studying <strong>chemistry</strong>, <strong>computer science</strong>, and <strong>collaborative piano</strong>. Thank you for visiting, and feel
-                free to browse around!</p>
+            <p class="text-center d-inline-block fade-in" id="page-intro">My name is Ruiran Xun, and I
+                am a senior at Carnegie Mellon University studying <strong>chemistry</strong>, 
+                <strong>computer science</strong>, and <strong>collaborative piano</strong>. Thank you 
+                for visiting, and feel free to browse around!</p>
         </div>
     </div>
     <div class="container">
@@ -23,9 +25,13 @@
         </div>
         <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
             <div class="col">
-                <p>I'm currently involved in research on <strong>polymer synthesis</strong> in the <a href="http://www.chem.cmu.edu/groups/noonan/index.html">Noonan group</a> at Carnegie Mellon University. In the summer of 2017, I also
-                    conducted research with the <a href="https://www.porcogroup.com/">Porco group</a> at Boston University, during which I studied a <strong>novel synthesis of indoles</strong> with concurrent group migration (the poster
-                    can be found <a href="{{ site.baseurl }}/assets/pdf/rise-poster.pdf">here</a>).</p>
+                <p>I'm currently involved in research on <strong>polymer synthesis</strong> in the 
+                    <a href="http://www.chem.cmu.edu/groups/noonan/index.html">Noonan group</a> at
+                    Carnegie Mellon University. In the summer of 2017, I also conducted research with
+                    the <a href="https://www.porcogroup.com/">Porco group</a> at Boston University, 
+                    during which I studied a <strong>novel synthesis of indoles</strong> with concurrent 
+                    group migration (the poster can be found 
+                    <a href="{{ site.baseurl }}/assets/pdf/rise-poster.pdf">here</a>).</p>
             </div>
         </div>
         <div class="row justify-content-end">
@@ -35,10 +41,21 @@
         </div>
         <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
             <div class="col">
-                <p>I am completing a dual degree in computer science alongside my chemistry degree and have been a <strong>teaching assistant</strong> for <a href="https://www.cs.cmu.edu/~15122/">15-122</a>, an introductory
-                    course at CMU, since the fall of 2019.</p>
-                <p>I was a <strong>Rewriting the Code fellow</strong> for the 2020–2021 year, and I was a <strong>Facebook Above and Beyond Computer Science (ABCS) fellow</strong> during the fall of 2020.</p>
-                <p>I have previously interned as a <strong>software engineer intern</strong> at Network Medical Management and Palo Alto Networks, and will be working full-time as a <strong>software engineer</strong> at Palo Alto Networks starting in August 2022.</p>
+                <p>I am completing a dual degree in computer science alongside my chemistry degree and 
+                    have been a <strong>teaching assistant</strong> for
+                    <a href="https://www.cs.cmu.edu/~15122/">15-122</a>, an introductory course at CMU,
+                    since the fall of 2019. I've also been a <strong>lead teaching assistant</strong> 
+                    for the course since the fall of 2020.</p>
+                <p>I was a <strong>Rewriting the Code fellow</strong> for the 2020–2021 year, and I was
+                    a <strong>Facebook Above and Beyond Computer Science (ABCS) fellow</strong> during
+                    the fall of 2020.</p>
+                <p>I have previously interned as a <strong>software engineer intern</strong> at Network 
+                    Medical Management and Palo Alto Networks, and will be working full-time as a 
+                    <strong>software engineer</strong> at Palo Alto Networks starting in August 2022.</p>
+                <p>Academically, I'm quite interested in <strong>programming language theory</strong> 
+                    (broadly speaking, type theory and formal verification); admittedly, I'm very new 
+                    to the field, my experience entirely being through coursework, so I'm participating
+                    in research to feel out how CS academia suits me.</p>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -50,12 +67,28 @@
             <div class="col">
                 <div class="row justify-content-center">
                     <div class="col-3 project-card fade-in">
+                        <h5>Quagmire: a C0 compiler</h5>
+                        <div class="row justify-content-center">
+                            <div class="col-auto"><a href="{{ site.baseurl }}/assets/pdf/dependent-arrays.pdf"><i class="fa fa-external-link"></i></a></div>
+                        </div>
+                        <p>A GCC-competitive optimizing compiler developed from scratch in OCaml, 
+                            compiling a safe subset of C into x86-64 assembly. Completed while taking
+                            Compiler Design (15-411) at CMU. (The source code cannot be public; the 
+                            above link is to a paper detailing our final project in the course, in 
+                            which we utilized dependent types to determine safety of array accesses 
+                            at compile time.)</p>
+                        <p class="item-label">OCaml</p>
+                        <p class="item-label">Dune</p>
+                        <p class="item-label">Z3 Theorem Prover</p>
+                    </div>
+                    <div class="col-3 project-card fade-in">
                         <h5>Project Planner</h5>
                         <div class="row justify-content-center">
                             <div class="col-auto"><a href="https://github.com/elucidium/project-planner"><i class="fa fa-github"></i></a></div>
                             <div class="col-auto"><a href="https://planner.ruiran.me/"><i class="fa fa-external-link"></i></a></div>
                         </div>
-                        <p>A Firebase web app made for students to better manage their time by breaking down class projects and assignments into smaller, more manageable milestones.</p>
+                        <p>A Firebase web app made for students to better manage their time by breaking
+                            down class projects and assignments into smaller, more manageable milestones.</p>
                         <p class="item-label">Firebase Authentication</p>
                         <p class="item-label">Firebase Realtime Database</p>
                         <p class="item-label">JavaScript</p>
@@ -69,7 +102,9 @@
                             <div class="col-auto"><a href="https://github.com/elucidium/foodmood-ses"><i class="fa fa-github"></i></a></div>
                             <div class="col-auto"><a href="https://ruiran.me/foodmood-ses/"><i class="fa fa-external-link"></i></a></div>
                         </div>
-                        <p>An app that allows the user to search for local restaurants serving whatever food fits their mood. Successful final round submission to Capital One's May 2020 Software Engineering Summit.</p>
+                        <p>An app that allows the user to search for local restaurants serving whatever 
+                            food fits their mood. Successful final round submission to Capital One's 
+                            May 2020 Software Engineering Summit.</p>
                         <p class="item-label">Bootstrap</p>
                         <p class="item-label">HTML5 Geolocation API</p>
                         <p class="item-label">Yelp Fusion API</p>
@@ -81,7 +116,8 @@
                         <div class="row justify-content-center">
                             <div class="col-auto"><a href="https://github.com/elucidium/elucidium.github.io"><i class="fa fa-github"></i></a></div>
                         </div>
-                        <p>This website! A Jekyll website designed to be fully responsive and deployed on a secured custom domain through Github Pages.</p>
+                        <p>This website! A Jekyll website designed from scratch to be fully responsive,
+                            deployed on a secured custom domain through Github Pages.</p>
                         <p class="item-label">Bootstrap</p>
                         <p class="item-label">Jekyll</p>
                     </div>
@@ -90,24 +126,14 @@
                         <div class="row justify-content-center">
                             <div class="col-auto"><a href="https://github.com/elucidium/honkbot"><i class="fa fa-github"></i></a></div>
                         </div>
-                        <p>A Discord bot with role management and verification features. Created for use by the course 15-122 (Principles of Imperative Computation) at Carnegie Mellon during remote semesters.</p>
+                        <p>A Discord bot with role management and verification features. While a TA, 
+                            I developed this for use by the course Principles of Imperative 
+                            Computation (15-122) at Carnegie Mellon during remote semesters (specifically spring
+                            and summer 2021).</p>
                         <p class="item-label">Python</p>
                         <p class="item-label">Heroku</p>
                         <p class="item-label">Heroku Redis</p>
                         <p class="item-label">Discord API</p>
-                    </div>
-                    <div class="col-3 project-card fade-in">
-                        <h5>ChemBot</h5>
-                        <div class="row justify-content-center">
-                            <div class="col-auto"><a href="https://github.com/elucidium/ChemBot"><i class="fa fa-github"></i></a></div>
-                        </div>
-                        <p>A Discord bot for querying and displaying chemical information.</p>
-                        <p class="item-label">Python</p>
-                        <p class="item-label">Selenium</p>
-                        <p class="item-label">Heroku</p>
-                        <p class="item-label">Discord API</p>
-                        <p class="item-label">ChemSpider API</p>
-                        <p class="item-label">Wolfram|Alpha API</p>
                     </div>
                 </div>
             </div>
@@ -119,10 +145,13 @@
         </div>
         <div class="row d-lg-flex justify-content-lg-center content-row fade-in">
             <div class="col">
-                <p>I've worked on many theatrical productions as a music director and/or pianist in both student-produced and professional capacities. 
-                    At CMU, I am heavily involved in Scotch'n'Soda Theatre in various music-adjacent and leadership roles, most recently music directing 
-                    its production of <em>The Rocky Horror Show</em> in October 2021. I also have some experience composing.</p>
-                <p>A comprehensive overview of my musical experiences can be found <a href="{{ site.baseurl }}/music">here</a>.</p>
+                <p>I've worked on many theatrical productions as a music director and/or pianist in both
+                    student-produced and professional capacities. At CMU, I am heavily involved in 
+                    Scotch'n'Soda Theatre in various music-adjacent and leadership roles, most recently 
+                    music directing its production of <em>The Rocky Horror Show</em> in October 2021. I 
+                    also have some experience composing.</p>
+                <p>A comprehensive overview of my musical experiences can be found 
+                    <a href="{{ site.baseurl }}/music">here</a>.</p>
             </div>
         </div>
         <div class="row justify-content-center">

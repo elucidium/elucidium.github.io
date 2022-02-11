@@ -6,7 +6,9 @@ permalink: /music/
 
 This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! I spend most of my time outside of work and academics on music-related extracurriculars, and I wouldn't have it any other way.
 
-Side note: once I graduate in May 2022 and move to the Bay Area for my full-time job I will be actively looking for opportunities, so please let me know if you have any in mind!
+Any publicly available recordings of my work are linked below; I've also taken the liberty of linking collaborators and organizations with whom I've worked. Feel free to explore!
+
+Side note: once I graduate in May 2022 and move to the Bay Area for my full-time job I will be actively looking for opportunities, so please [let me know](mailto:xun.ruiran@gmail.com) if you have any in mind.
 
 ## Biography
 
@@ -22,14 +24,18 @@ Side note: once I graduate in May 2022 and move to the Bay Area for my full-time
 - *Mister Rogers' Operas* (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/), mus. dir. Robert Frankenberry.
 
 ### Musical Theatre
-- *The Rocky Horror Show* (music director) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), **10/2021**.
+- *Preludes* (pianist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Dir. Moses Garcia, mus. dir. Matthew Zwiebel.
+- *RENT* (music director) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), **04/2022**.
+- *[69 Love Songs](https://69lovesongsaqueerfantasia.weebly.com/)* (assc. music director) @ CMU School of Drama, **02/2022**. Wr. Wendy Kuhn and Izadorius, mus. dir. [Aaron Morrison](https://www.aaronmorrisonmusic.com/).
+- *[Everything In Its Time: A Musical Cabaret](https://www.youtube.com/watch?v=ZG-V3VFSMrI)* (pianist) @ CMU School of Music, **02/2022**. Mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/), dir. Katia Peppas.
+- *The Rocky Horror Show* (music director) @ Scotch'n'Soda Theatre, **10/2021**.
 - *The Great Hunger* (composer) @ [The Tank](https://thetanknyc.org/), **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).
 - *Little Shop of Horrors* (pianist, audio editor) @ Scotch'n'Soda Theatre, **04/2021**.
 - *[Behind Closed Doors](https://www.youtube.com/watch?v=PReWoscQbFQ)* (composer, audio editor) @ Scotch'n'Soda Theatre, **10/2020**.
 - *[S'n'Sings: Side by Side by Side](https://www.youtube.com/watch?v=DQADK3WWsYw)* (music director, pianist) @ Scotch'n'Soda Theatre, **05/2020**.
 - *[This Side Up](https://www.youtube.com/watch?v=xkq9TU1V5Lo)* (pianist) @ CMU School of Music, **02/2020**. Wr. Matthew Zwiebel.
 - *The Light in the Piazza* (rehearsal pianist) @ CMU School of Music, **01/2020**. Dir. Seamus Ricci, cond. Christopher Larkin.
-- *Birds & Beansprouts* (pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).
+- *Birds & Beansprouts* (pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. Joshua Gregg Fried.
 - *Catch Me If You Can* (pianist) @ Scotch'n'Soda Theatre, **10/2019**.
 - *12th Annual Benefit Cabaret* (pit violinist) @ Scotch'n'Soda Theatre, **10/2019**.
 - *High School Choosical* (pianist) @ New Works Coffeehouse, **05/2019**.
