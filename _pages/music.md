@@ -4,15 +4,13 @@ title: Music
 permalink: /music/
 ---
 
-This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! I spend most of my time outside of work and academics on music-related extracurriculars, and I wouldn't have it any other way.
+This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! I spend most of my time outside of work/academics on music-related extracurriculars, and I wouldn't have it any other way.
 
 Any publicly available recordings of my work are linked below; I've also taken the liberty of linking collaborators and organizations with whom I've worked. Feel free to explore!
 
-Side note: once I graduate in May 2022 and move to the Bay Area for my full-time job I will be actively looking for opportunities, so please [let me know](mailto:xun.ruiran@gmail.com) if you have any in mind.
-
 ## Biography
 
-**Ruiran Xun** (she/her) is a Pittsburgh-based collaborative pianist and music director. She is a senior at Carnegie Mellon University studying chemistry and computer science, and outside of academics she is actively involved in theatre and other musical endeavors. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). She's currently the assistant conductor for the **CMU All-University Orchestra**, and continues to serve in various music direction-adjacent roles on productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization.
+**Ruiran Xun** (she/her) is a collaborative pianist and music director based in the Bay Area. She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **CMU All-University Orchestra**; music directed three musical productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to plenty more productions of existing and new works in various capacities (composer, arranger, pianist).
 
 ## Productions and Performances
 
@@ -24,6 +22,7 @@ Side note: once I graduate in May 2022 and move to the Bay Area for my full-time
 - *Mister Rogers' Operas* (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/), mus. dir. Robert Frankenberry.
 
 ### Musical Theatre
+- *LIMBO* (arranger, music director, pianist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Wr. Nick Grosso, dir. Katia Peppas. [score](https://ruiran.me/assets/pdf/limbo.pdf)
 - *Preludes* (pianist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Dir. Moses Garcia, mus. dir. Matthew Zwiebel.
 - *RENT* (music director) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), **04/2022**.
 - *[69 Love Songs](https://69lovesongsaqueerfantasia.weebly.com/)* (assc. music director) @ CMU School of Drama, **02/2022**. Wr. Wendy Kuhn and Izadorius, mus. dir. [Aaron Morrison](https://www.aaronmorrisonmusic.com/).
@@ -46,6 +45,8 @@ Side note: once I graduate in May 2022 and move to the Bay Area for my full-time
 - *Mary Poppins* (pianist) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
 ### Performances
+- *Graduate Student Composer Concert* (**05/2022**). Performed in Jake Schoenle's *Sylvan Suite I* and Victor Valle's *what was there is now gone*.
+- *AUO Chamber Orchestra/Flutonium Concert* (**04/2022**). Conducted the Chamber Orchestra in Georges Bizet's *Symphony in C*.
 - *AUO Chamber Orchestra/Flutonium Concert* (**11/2021**). Conducted the Chamber Orchestra in Felix Mendelssohn's *Hebrides Overture*.
 - *Carnegie Mellon Wind Ensemble Concert* (**10/2021**). Performed in Francis Poulenc's [*Suite Francaise*](https://youtu.be/lnIBIgkspVs?t=2606) on harpsichord, Ned Rorem's [*Sinfonia for 15 Winds*](https://youtu.be/lnIBIgkspVs?t=5042) on piano and celesta, and Bernstein's [*Prelude, Fugue, and Riffs*](https://youtu.be/lnIBIgkspVs) on piano.
 - *Virtual Student Composer Concert* (**05/2021**). Performed in Joe Brauch’s [*Summer Silence*](https://youtu.be/GgOUdY8-mpo?t=20), [Bennett Garfield](https://www.bennettgarfield.com/)’s [*Winds*](https://youtu.be/GgOUdY8-mpo?t=597), and Matthew Zwiebel’s [*for Now: not Then, and who knows Later*](https://youtu.be/GgOUdY8-mpo?t=2990).
@@ -60,8 +61,8 @@ Side note: once I graduate in May 2022 and move to the Bay Area for my full-time
 - *[PianOpera!](https://www.youtube.com/watch?v=l7qj9mLp0u8)* (**07/2020**). Performed in a pianist-only showcase for Pittsburgh Festival Opera's summer season.
 
 ## Work Experience
-- **Scotch'n'Soda Theatre** (vice president), **05/2021 – present (ending 05/2022)**, Pittsburgh, PA. Serving as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.
-- **CMU All-University Orchestra** (assistant conductor), **05/2021 – present (ending 05/2022)**, Pittsburgh, PA. Also assisting with routine logistical operations as a member of the Board.
+- **Scotch'n'Soda Theatre** (vice president), **05/2021 – 05/2022**, Pittsburgh, PA. Served as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.
+- **CMU All-University Orchestra** (assistant conductor), **05/2021 – 04/2022**, Pittsburgh, PA. Also assisting with routine logistical operations as a member of the Board.
 - **Scotch'n'Soda Theatre** (secretary), **05/2019 – 05/2020**, Pittsburgh, PA. Served as secretary on the Board of Directors during my sophomore year, overseeing mainstage productions and writing a weekly update email to the organization. 
 - **CMU School of Music** (accompanist), **09/2018 – 03/2020**, Pittsburgh, PA. Played piano for first- and second-year voice students' lessons, and worked as a rehearsal pianist for a few of the departments' opera productions.
 - **[Pittsburgh Opera](https://www.pittsburghopera.org/)** (mobile app operator), **10/2019**, Pittsburgh, PA. Ran cues for curated content provided through the Pittsburgh Opera Mobile App during the company's run of *Don Giovanni*.
