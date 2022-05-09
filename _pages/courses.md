@@ -122,5 +122,9 @@ I worked remotely as a **software engineer intern** with Palo Alto Networks on t
 - (09402) Undergraduate Seminar VI
 - (15451) Algorithm Design and Analysis
 - (15591) Independent Study
-- (54430) Production Prep: Preludes (Sound)
+- (54430) Production Prep: Preludes (Sound) ☆
 - (76270) Writing for the Professions
+
+## Summer 2022
+
+I'm finishing out my time with 15-122 by working as an **instructor of record** for the course during the first half of the summer. In August, I will be starting full-time work as a **software engineer** at Palo Alto Networks.

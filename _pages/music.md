@@ -4,47 +4,52 @@ title: Music
 permalink: /music/
 ---
 
-This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! I spend most of my time outside of work/academics on music-related extracurriculars, and I wouldn't have it any other way.
+This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
 
-Any publicly available recordings of my work are linked below; I've also taken the liberty of linking collaborators and organizations with whom I've worked. Feel free to explore!
+Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've worked. Please explore!
 
-## Biography
+Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions.
 
-**Ruiran Xun** (she/her) is a collaborative pianist and music director based in the Bay Area. She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **CMU All-University Orchestra**; music directed three musical productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to plenty more productions of existing and new works in various capacities (composer, arranger, pianist).
+## biography
 
-## Productions and Performances
+**Ruiran Xun** (she/her) is a collaborative pianist and music director based in the Bay Area. She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **CMU All-University Orchestra**; music directed three musical productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions of existing and new works in various capacities (composer, arranger, pianist).
 
-### Opera
+## productions and performances
+
+### opera
 - *The Turn of the Screw* (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Production timeline cut short due to COVID-19.
 - *Virgula Divina* (music director, conductor, pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.
 - *Night Flight of Minerva's Owl* (music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. Rose Freeman, co-mus. dir. Robert Frankenberry.
 - *Die Liebe der Danae* (pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 - *Mister Rogers' Operas* (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/), mus. dir. Robert Frankenberry.
 
-### Musical Theatre
+### musical theatre
 - *LIMBO* (arranger, music director, pianist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Wr. Nick Grosso, dir. Katia Peppas. [score](https://ruiran.me/assets/pdf/limbo.pdf)
-- *Preludes* (pianist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Dir. Moses Garcia, mus. dir. Matthew Zwiebel.
+- *Preludes* (pit keyboardist) @ CMU School of Drama, **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
 - *RENT* (music director) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), **04/2022**.
 - *[69 Love Songs](https://69lovesongsaqueerfantasia.weebly.com/)* (assc. music director) @ CMU School of Drama, **02/2022**. Wr. Wendy Kuhn and Izadorius, mus. dir. [Aaron Morrison](https://www.aaronmorrisonmusic.com/).
-- *[Everything In Its Time: A Musical Cabaret](https://www.youtube.com/watch?v=ZG-V3VFSMrI)* (pianist) @ CMU School of Music, **02/2022**. Mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/), dir. Katia Peppas.
 - *The Rocky Horror Show* (music director) @ Scotch'n'Soda Theatre, **10/2021**.
 - *The Great Hunger* (composer) @ [The Tank](https://thetanknyc.org/), **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).
 - *Little Shop of Horrors* (pianist, audio editor) @ Scotch'n'Soda Theatre, **04/2021**.
 - *[Behind Closed Doors](https://www.youtube.com/watch?v=PReWoscQbFQ)* (composer, audio editor) @ Scotch'n'Soda Theatre, **10/2020**.
-- *[S'n'Sings: Side by Side by Side](https://www.youtube.com/watch?v=DQADK3WWsYw)* (music director, pianist) @ Scotch'n'Soda Theatre, **05/2020**.
 - *[This Side Up](https://www.youtube.com/watch?v=xkq9TU1V5Lo)* (pianist) @ CMU School of Music, **02/2020**. Wr. Matthew Zwiebel.
 - *The Light in the Piazza* (rehearsal pianist) @ CMU School of Music, **01/2020**. Dir. Seamus Ricci, cond. Christopher Larkin.
-- *Birds & Beansprouts* (pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. Joshua Gregg Fried.
+- *Birds & Beansprouts* (pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).
 - *Catch Me If You Can* (pianist) @ Scotch'n'Soda Theatre, **10/2019**.
-- *12th Annual Benefit Cabaret* (pit violinist) @ Scotch'n'Soda Theatre, **10/2019**.
 - *High School Choosical* (pianist) @ New Works Coffeehouse, **05/2019**.
-- *Miscast Cabaret* (pianist) @ Scotch'n'Soda Theatre, **05/2019**.
 - *MAMMA MIA!* (music director, pianist) @ Scotch'n'Soda Theatre, **04/2019**.
 - *Sweeney Todd: The Demon Barber of Fleet Street* (rehearsal pianist, pit percussionist) @ Scotch'n'Soda Theatre, **10/2018**. 
-- *11th Annual Benefit Cabaret* (pianist) @ Scotch'n'Soda Theatre, **10/2018**.
 - *Mary Poppins* (pianist) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
-### Performances
+### cabarets
+- *Matt Zwiebel's Musical Theatre Cabaret* (**05/2022**). Played piano in a cabaret featuring 14 of Matt's original musical theatre songs.
+- *[Everything In Its Time: A Musical Cabaret](https://www.youtube.com/watch?v=ZG-V3VFSMrI)* (pianist) @ CMU School of Music, **02/2022**. Played piano in a cabaret featuring a variety of musical theatre selections, taking the place of Joshua Gregg Fried's senior recital. 
+- *12th Annual Benefit Cabaret* (**10/2019**). Played violin for a Scotch'n'Soda cabaret benefitting the [Alumni Theater Company](https://www.alumnitheatercompany.org/).
+- *Miscast Cabaret* (**05/2019**). Played piano in a Scotch'n'Soda cabaret where actors performed songs for roles they typically wouldn't be cast in.
+- *11th Annual Benefit Cabaret* (**10/2018**). Played piano for a Scotch'n'Soda cabaret benefitting the Alumni Theater Company.
+
+### concerts
+- *Josiah Handelman's Senior Composition Recital* (**05/2022**). Performed in [*Sunny Shore*](https://youtu.be/acaWBXm6aZM?t=680) on piano.
 - *Graduate Student Composer Concert* (**05/2022**). Performed in Jake Schoenle's *Sylvan Suite I* and Victor Valle's *what was there is now gone*.
 - *AUO Chamber Orchestra/Flutonium Concert* (**04/2022**). Conducted the Chamber Orchestra in Georges Bizet's *Symphony in C*.
 - *AUO Chamber Orchestra/Flutonium Concert* (**11/2021**). Conducted the Chamber Orchestra in Felix Mendelssohn's *Hebrides Overture*.
@@ -56,11 +61,12 @@ Any publicly available recordings of my work are linked below; I've also taken t
 - *Joe Brauch's Junior Composition Recital* (**05/2019**). Performed his solo [*Piano Sonata No. 1*](https://youtu.be/yb9cK0ddVj8?t=1060) and played in his chamber ensemble piece [*Mischief Night*](https://youtu.be/yb9cK0ddVj8?t=2585).
 - *Jieying Zhang's Master's Recital* (**04/2019**). Accompanied the whole recital.
 
-### Miscellaneous
+### miscellaneous
 - *[Translating Belonging: German-Jewish Poetry in Classical Art Song](https://www.youtube.com/playlist?list=PLPwBA8ZVjdj2DCICJZHZd7Ev1H84Kwwyr)* (**05/2021**). Virtually collaborated with Anna Sophia Boyd on their [senior capstone project](https://translatingidentity.wordpress.com/) at CMU.
 - *[PianOpera!](https://www.youtube.com/watch?v=l7qj9mLp0u8)* (**07/2020**). Performed in a pianist-only showcase for Pittsburgh Festival Opera's summer season.
+- *[S'n'Sings: Side by Side by Side](https://www.youtube.com/watch?v=DQADK3WWsYw)* (music director, pianist) @ Scotch'n'Soda Theatre, (**05/2020**). Music directed, played piano, and edited audio for a virtual performance of *Side by Side by Side* from Sondheim's *Company*.
 
-## Work Experience
+## work experience
 - **Scotch'n'Soda Theatre** (vice president), **05/2021 – 05/2022**, Pittsburgh, PA. Served as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.
 - **CMU All-University Orchestra** (assistant conductor), **05/2021 – 04/2022**, Pittsburgh, PA. Also assisting with routine logistical operations as a member of the Board.
 - **Scotch'n'Soda Theatre** (secretary), **05/2019 – 05/2020**, Pittsburgh, PA. Served as secretary on the Board of Directors during my sophomore year, overseeing mainstage productions and writing a weekly update email to the organization. 
@@ -68,12 +74,34 @@ Any publicly available recordings of my work are linked below; I've also taken t
 - **[Pittsburgh Opera](https://www.pittsburghopera.org/)** (mobile app operator), **10/2019**, Pittsburgh, PA. Ran cues for curated content provided through the Pittsburgh Opera Mobile App during the company's run of *Don Giovanni*.
 - **Pittsburgh Festival Opera** (resident artist pianist), **06/2019 – 07/2019**, Pittsburgh, PA. Worked on multiple productions, as well as played piano for coachings, recitals, and cabarets in the Young Professional Artists Program.
  
-## Skills
-- **Instruments:** piano (15+ yrs), violin (10+ yrs), mallet percussion (2 yrs in high school, primarily marimba), voice (3+ yrs, caveat: everything I know is second-hand knowledge from playing piano for many rehearsals and lessons, but I know enough to provide a healthy foundation and basic guidance to untrained vocalists at least in the context of musical theatre)
-- **Software:** MainStage, Dorico, Logic Pro, GarageBand, Audacity
-- **Other:** conducting, music direction, sightreading (high proficiency), transcription, learning music quickly (some highlights: sightreading *Sweeney Todd*'s piano/vocal score for a full run and learning *The Turn of the Screw*'s reduced piano part in under two weeks), absolute pitch (I suppose this one is technically not a learned skill)
+## skills I have
 
-## References
+### instruments
+- Piano (15+ years)
+- Violin (10+ years)
+- Mallet percussion (2 years in high school, primarily marimba)
+- Voice (3+ years, caveat: I have no formal training in vocal pedagogy but I've accrued a good amount of working knowledge over the years)
+
+### software
+- MainStage 3
+- Dorico Pro 3.5
+- Logic Pro
+- GarageBand
+- Audacity
+
+### other
+- Music direction (see above)
+- Sightreading (high proficiency)
+- Conducting (1 year of coursework, plus practical experience working with the CMU All-University Orchestra and conducting pits for shows I music direct)
+- Arranging and transcription (I can transcribe by ear very quickly)
+- Absolute pitch (I suppose this one technically is not a learned skill...)
+
+## skills I would like to acquire
+- A more formalized knowledge of **vocal technique**, both in classical and contemporary contexts! Everything I currently know is secondhand from being in rehearsal rooms with people far more experienced than me.
+- A working knowledge of **orchestration**, as one of my passions is putting new theatre on its feet.
+- An understanding of **sound engineering** beyond the working knowledge I've picked up while music directing! 
+
+## references
 
 References available upon [request](mailto:xun.ruiran@gmail.com).
 
