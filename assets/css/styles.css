@@ -204,6 +204,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   margin-top: 15px;
   margin-bottom: 0px;
+  text-align: center;
 }
 
 .post h2 {
@@ -213,6 +214,7 @@ p {
   font-family: 'Open Sans', sans-serif;
   margin-top: 13px;
   margin-bottom: 0px;
+  text-align: center;
 }
 
 .post h3 {
