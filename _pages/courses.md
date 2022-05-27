@@ -127,4 +127,4 @@ I worked remotely as a **software engineer intern** with Palo Alto Networks on t
 
 ## Summer 2022
 
-I'm finishing out my time with 15-122 by working as an **instructor of record** for the course during the first half of the summer. In August, I will be starting full-time work as a **software engineer** at Palo Alto Networks.
+I'm finishing out my time with [15-122](https://www.cs.cmu.edu/~iliano/courses/22M-CMU-CS122/) by working as an **instructor of record** for the course during the first half of the summer. In August, I will be starting full-time work as a **software engineer** at Palo Alto Networks.

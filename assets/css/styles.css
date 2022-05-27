@@ -21,7 +21,6 @@ html {
 
 a {
   color: #05668d;
-  font-weight: 600;
 }
 
 a i {
@@ -202,8 +201,8 @@ p {
   font-weight: 500;
   font-size: 2rem;
   font-family: 'Open Sans', sans-serif;
-  margin-top: 15px;
-  margin-bottom: 0px;
+  margin-top: 20px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -212,8 +211,8 @@ p {
   font-weight: 500;
   font-size: 1.8rem;
   font-family: 'Open Sans', sans-serif;
-  margin-top: 13px;
-  margin-bottom: 0px;
+  margin-top: 15px;
+  margin-bottom: 10px;
   text-align: center;
 }
 
@@ -223,7 +222,7 @@ p {
   font-size: 1.6rem;
   font-family: 'Open Sans', sans-serif;
   margin-top: 11px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .post h4 {
@@ -232,7 +231,7 @@ p {
   font-size: 1.4rem;
   font-family: 'Open Sans', sans-serif;
   margin-top: 9px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .post h5 {
@@ -241,7 +240,7 @@ p {
   font-size: 1.2rem;
   font-family: 'Open Sans', sans-serif;
   margin-top: 7px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .post h6 {
@@ -250,7 +249,7 @@ p {
   font-size: 1.0rem;
   font-family: 'Open Sans', sans-serif;
   margin-top: 5px;
-  margin-bottom: 0px;
+  margin-bottom: 10px;
 }
 
 .post p {
@@ -261,6 +260,17 @@ p {
 .post ul {
   margin-top: 5px;
   margin-bottom: 0px;
+}
+
+.post ul li {
+  margin-bottom: 3px;
+}
+
+.post img {
+  max-width: 100%;
+  max-height: 100%;
+  margin-bottom: 20px;
+  border-radius: 10px;
 }
 
 pre {

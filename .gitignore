@@ -6,3 +6,7 @@ _site
 Gemfile.lock
 *.Gemfile*.gemspec
 .jekyll-cache
+
+assets/pdf/beloved.pdf
+assets/pdf/greathunger.pdf
+assets/pdf/limbo.pdf

@@ -11,18 +11,20 @@ permalink: /cv/
 B.S. Chemistry, B.S. Computer Science (dual degree), Minor in Collaborative Piano (May 2022)
 
 #### Honors
-- **2022 K&L Gates Prize Awardee**.
+- [**2022 K&L Gates Prize Awardee**](https://www.cmu.edu/news/stories/archives/2022/may/kl-gates-scholar.html).
 - [**Fall 2021 Phi Beta Kappa Initiate**](https://www.cmu.edu/dietrich/news/news-stories/2022/january/pbk-2021early.html). 
 - [**2022 Andrew Carnegie Society Scholar**](https://www.cmu.edu/engage/give/donor-recognition/andrew-carnegie-society/acs-scholars.html).
-- **2022 Senior Leadership Recognition**.
-- **Sigma Alpha Iota Scholastic Award**. Awarded to the graduating senior female member with the highest cumulative scholastic average in the Alpha Mu chapter of Sigma Alpha Iota, an international music fraternity.
+- [**2022 Senior Leadership Recognition**](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr).
+- **Sigma Alpha Iota Scholastic Award** (awarded to the graduating senior female member with the highest cumulative scholastic average in the Alpha Mu chapter of Sigma Alpha Iota, an international music fraternity).
+- **University Honors** (cumulative QPA above 3.5), [**Mellon College of Science College Honors**](https://www.cmu.edu/mcs/undergrad/advising/college-research-honors.html) (carried out significant research).
 
 #### Extracurriculars
 - **Scotch'n'Soda Theatre**. Vice President (2021--2022); Music Liaison (2020--2021); Secretary (2019--2020); Music Director (2019--2022); Pianist (2018--2022).
-- **Sigma Alpha Iota, Alpha Mu Chapter**. Sergeant-at-Arms (2021--2022); Music Chair (2020--2021); Member (2019--2022).
 - **CMU All-University Orchestra**. Assistant Conductor (2021--2022).
+- **Sigma Alpha Iota, Alpha Mu Chapter**. Sergeant-at-Arms (2021--2022); Music Chair (2020--2021); Member (2019--2022).
 - **Academic Review Board/University Disciplinary Committee**. University Board Member (2019--2022).
 - **Carnegie Mellon Informatics and Mathematics Competition Organizing Team**. Logistics Officer (2019--2020).
+- **Spring Carnival Committee**, Member (2018--2019).
 
 ### Thomas Jefferson High School for Science and Technology (TJHSST)
 Advanced Studies Diploma (June 2018)
@@ -62,6 +64,12 @@ Advanced Studies Diploma (June 2018)
 
 ## work experience
 
+### Software Engineer
+*(Palo Alto Networks, Santa Clara, CA; 08/2022--present)*
+
+### 15-122 Instructor of Record
+*(CMU School of Computer Science, Pittsburgh, PA; 05/2022--06/2022)*
+
 ### Software Engineering Intern
 *(Palo Alto Networks, Santa Clara, CA; 05/2021--08/2021)*
 - Developed an integrated device monitoring dashboard to facilitate testing and monitoring
@@ -97,7 +105,7 @@ Advanced Studies Diploma (June 2018)
 *(project for 15-411: Compiler Design @ CMU)*
 - Built a compiler for C0, a safe subset of the C language, in OCaml nearly from scratch
 - Implemented optimizations yielding substantial execution time and code size improvements
-- [Extended the language](https://ruiran.me/assets/pdf/dependent-arrays.pdf) using dependent types to optimize array bounds checking
+- [Extended the language](/assets/pdf/dependent-arrays.pdf) using dependent types to optimize array bounds checking
 
 ### HonkBot (2021)
 - Built a [Discord bot](https://github.com/elucidium/honkbot) for use by 15-122 during the Spring/Summer 2021 remote semesters
