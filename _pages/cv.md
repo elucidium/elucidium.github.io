@@ -69,6 +69,8 @@ Advanced Studies Diploma (June 2018)
 
 ### 15-122 Instructor of Record
 *(CMU School of Computer Science, Pittsburgh, PA; 05/2022--06/2022)*
+- Co-instructed the Summer 1 offering of the course to an enrollment of 80+ students
+- Led a course staff of 20 TAs, managing backend infrastructure and logistics
 
 ### Software Engineering Intern
 *(Palo Alto Networks, Santa Clara, CA; 05/2021--08/2021)*
