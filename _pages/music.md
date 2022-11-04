@@ -36,6 +36,7 @@ Any publicly available recordings of my work are linked below. I've also taken t
 - ***Mary Poppins*** (rehearsal & pit pianist) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
 ### new works
+- ***JUSTICE: A New Musical*** (music director) @ [Marin Theatre Company](https://www.marintheatre.org/), **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), comp. & lyr. [Bree Lowdermilk & Kait Kerrigan](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
 - ***124 Bluestone Road*** (transcriber) @ CMU School of Drama, **05/2022**. Wr. Sammie Paul and Nick Grosso.  
 *Transcribed the iteration of the show performed in 12/2019 at Playground XVII.*
 - ***LIMBO*** (arranger, music director, pianist) @ CMU School of Drama, **04/2022**. Wr. Nick Grosso, dir. Katia Peppas.  
