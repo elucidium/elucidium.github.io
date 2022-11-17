@@ -127,11 +127,12 @@ Any publicly available recordings of my work are linked below. I've also taken t
 - piano (15+ years)
 - violin (10+ years)
 - mallet percussion (2 years in high school, primarily marimba)
-- voice (3+ years, caveat: I have no formal training in vocal pedagogy but I've accrued a good amount of working knowledge over the years)
+- voice (3+ years, caveat: I have no formal training but I've accrued a good amount of working knowledge over the years)
 
 ### software
 - MainStage 3
 - Dorico Pro 3.5
+- Finale
 - Logic Pro
 - GarageBand
 - Audacity
@@ -151,8 +152,8 @@ Any publicly available recordings of my work are linked below. I've also taken t
 ## skills I would like to acquire
 - A more formalized knowledge of **vocal technique**, both in classical and contemporary contexts! Everything I currently know is secondhand from being in rehearsal rooms with people far more experienced than me.
 - A working knowledge of **orchestration** so that I can better assist in developing new musicals.
-- An understanding of **sound engineering** beyond the working knowledge I've picked up while music directing! 
+- An understanding of **sound engineering** beyond the miscellaneous knowledge I've picked up while music directing! 
 
-## references
+## miscellaneous
 
-References available upon [request](mailto:xun.ruiran@gmail.com).
+References available upon [request](mailto:xun.ruiran@gmail.com). Affiliations: [Maestra](https://maestramusic.org/profile/ruiran-xun/), [MUSE](https://museonline.org/profile/ruiran-xun/), [AFM Local 6](https://afm6.org/).

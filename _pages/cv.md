@@ -16,7 +16,8 @@ B.S. Chemistry, B.S. Computer Science (dual degree), Minor in Collaborative Pian
 - [**2022 Andrew Carnegie Society Scholar**](https://www.cmu.edu/engage/give/donor-recognition/andrew-carnegie-society/acs-scholars.html).
 - [**2022 Senior Leadership Recognition**](https://www.cmu.edu/student-affairs/slice/leadership/awards-recognition/index.html#slr).
 - **Sigma Alpha Iota Scholastic Award** (awarded to the graduating senior female member with the highest cumulative scholastic average in the Alpha Mu chapter of Sigma Alpha Iota, an international music fraternity).
-- **University Honors** (cumulative QPA above 3.5), [**Mellon College of Science College Honors**](https://www.cmu.edu/mcs/undergrad/advising/college-research-honors.html) (carried out significant research).
+- **University Honors** (cumulative QPA above 3.5).
+- [**Mellon College of Science College Honors**](https://www.cmu.edu/mcs/undergrad/advising/college-research-honors.html) (carried out significant research resulting in [peer-reviewed publication](https://pubs.acs.org/doi/abs/10.1021/acs.joc.2c01289)).
 
 #### Extracurriculars
 - **Scotch'n'Soda Theatre**. Vice President (2021--2022); Music Liaison (2020--2021); Secretary (2019--2020); Music Director (2019--2022); Pianist (2018--2022).
