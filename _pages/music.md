@@ -10,7 +10,9 @@ This page is intended to be a digital *curriculum vitae* for my musical endeavor
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A résumé version of this page can be found here.](/assets/pdf/xun-ruiran-music-public.pdf) Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
+[A single-page résumé can be found here (rev. 12/28/2022).](/assets/pdf/xun-ruiran-music-public.pdf)
+
+Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
@@ -19,31 +21,33 @@ Any publicly available recordings of my work are linked below. I've also taken t
 ## productions and performances
 
 ### opera
-- ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
-- ***Die Liebe der Danae*** (pit pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
+- ***Iolanthe*** (asst. music director) @ [San José Light Opera Festival (Lyric Theatre)](https://www.lyrictheatre.org/), San José, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
+- ***A Celebration of Choruses: famous choruses from musicals, operetta, & opera*** (asst. music director) @ San José Light Opera Festival (Lyric Theatre), **07–08/2023**. Mus. dir. Michael Taylor.
+- ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
+- ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
 ### musical theatre
-- ***Next to Normal*** (rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky​](https://www.valzvi.com/).
-- ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/about-me/).
-- ***Preludes*** (pit keyboardist) @ [CMU School of Drama](https://www.drama.cmu.edu/), **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
-- ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), **04/2022**.
-- ***The Rocky Horror Show*** (music director, piano/conductor) @ Scotch'n'Soda Theatre, **10/2021**.
-- ***Little Shop of Horrors*** (pit pianist, audio editor) @ Scotch'n'Soda Theatre, **04/2021**.
+- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), co-voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky​](https://www.valzvi.com/).
+- ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/about-me/).
+- ***Preludes*** (keyboard 1) @ [CMU School of Drama](https://www.drama.cmu.edu/), Pittsburgh, PA; **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
+- ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), Pittsburgh, PA; **04/2022**.
+- ***The Rocky Horror Show*** (co-music director, piano/conductor) @ Scotch'n'Soda Theatre, **10/2021**.
+- ***Little Shop of Horrors*** (keyboards 1 & 2, audio editor) @ Scotch'n'Soda Theatre (virtual production), **04/2021**.
 - ***The Light in the Piazza*** (rehearsal pianist) @ CMU School of Music, **01/2020**. Dir. Seamus Ricci, cond. Christopher Larkin.
-- ***Catch Me If You Can*** (rehearsal & pit pianist) @ Scotch'n'Soda Theatre, **10/2019**.
-- ***Mamma Mia!*** (music director, pianist) @ Scotch'n'Soda Theatre, **04/2019**.
-- ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, pit percussionist) @ Scotch'n'Soda Theatre, **10/2018**. 
-- ***Mary Poppins*** (rehearsal & pit pianist) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
+- ***Catch Me If You Can*** (rehearsal pianist, keyboard 1) @ Scotch'n'Soda Theatre, **10/2019**.
+- ***Mamma Mia!*** (music director, keyboard 1) @ Scotch'n'Soda Theatre, **04/2019**.
+- ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
+- ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
 ### new works
-- ***JUSTICE: A New Musical*** (music director) @ [Marin Theatre Company](https://www.marintheatre.org/), **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), comp. & lyr. [Bree Lowdermilk & Kait Kerrigan](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
+- ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), comp. & lyr. [Bree Lowdermilk & Kait Kerrigan](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
 - ***124 Bluestone Road*** (transcriber) @ CMU School of Drama, **05/2022**. Wr. Sammie Paul and Nick Grosso.  
 *Transcribed the iteration of the show performed in 12/2019 at Playground XVII.*
 - ***LIMBO*** (arranger, music director, pianist) @ CMU School of Drama, **04/2022**. Wr. Nick Grosso, dir. Katia Peppas.  
 *Assembled a piano/vocal score from recorded demos, rehearsed with actors, and performed the show (notably, all in the span of under a week).*
 - ***[69 Love Songs](https://69lovesongsaqueerfantasia.weebly.com/)*** (assc. music director) @ CMU School of Drama, **02/2022**. Wr. Wendy Kuhn and Izadorius, mus. dir. [Aaron Morrison](https://www.aaronmorrisonmusic.com/).  
 *Assisted in the rehearsal process.*
-- ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
+- ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
 *Composed songs for an original play.*
 - ***[Behind Closed Doors](https://youtu.be/PReWoscQbFQ?t=1753)*** (composer, audio editor) @ Scotch'n'Soda Theatre, **10/2020**.  
 *[Composed a piece](/assets/pdf/procrastination.pdf) (for which Katherine Cole Sabel wrote the lyrics) and contributed to audio editing for a show featuring original work by Scotch'n'Soda student members.*
