@@ -20,11 +20,23 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## productions and performances
 
+### new works
+- ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
+*Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
+- ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
+*Composed songs for an original play.*
+- ***Virgula Divina*** (music director, conductor, pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Comp. Karen Brown, libr. Jessica Lanay, dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.  
+*Excerpts from the new opera performed as part of the Fight for the Right series of original work mounted at the Pittsburgh Festival Opera.*
+- ***Night Flight of Minerva's Owl*** (music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Comp. Guang Yang, libr. Paula Cizmar, dir. Rose Freeman, co-mus. dir. Robert Frankenberry.  
+*Scene from the new opera also performed as part of Fight for the Right.*
+- ***Mister Rogers' Operas*** (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/); mus. dir., arr. Robert Frankenberry.  
+*Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
+
 ### opera
 - ***Iolanthe*** (asst. music director) @ [San José Light Opera Festival (Lyric Theatre)](https://www.lyrictheatre.org/), San José, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
 - ***A Celebration of Choruses: famous choruses from musicals, operetta, & opera*** (asst. music director) @ San José Light Opera Festival (Lyric Theatre), **07–08/2023**. Mus. dir. Michael Taylor.
 - ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
-- ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
+- ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
 ### musical theatre
 - ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), co-voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky​](https://www.valzvi.com/).
@@ -39,28 +51,19 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
 - ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
-### new works
-- ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), comp. & lyr. [Bree Lowdermilk & Kait Kerrigan](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
+### student new works
 - ***124 Bluestone Road*** (transcriber) @ CMU School of Drama, **05/2022**. Wr. Sammie Paul and Nick Grosso.  
 *Transcribed the iteration of the show performed in 12/2019 at Playground XVII.*
 - ***LIMBO*** (arranger, music director, pianist) @ CMU School of Drama, **04/2022**. Wr. Nick Grosso, dir. Katia Peppas.  
 *Assembled a piano/vocal score from recorded demos, rehearsed with actors, and performed the show (notably, all in the span of under a week).*
 - ***[69 Love Songs](https://69lovesongsaqueerfantasia.weebly.com/)*** (assc. music director) @ CMU School of Drama, **02/2022**. Wr. Wendy Kuhn and Izadorius, mus. dir. [Aaron Morrison](https://www.aaronmorrisonmusic.com/).  
 *Assisted in the rehearsal process.*
-- ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
-*Composed songs for an original play.*
 - ***[Behind Closed Doors](https://youtu.be/PReWoscQbFQ?t=1753)*** (composer, audio editor) @ Scotch'n'Soda Theatre, **10/2020**.  
 *[Composed a piece](/assets/pdf/procrastination.pdf) (for which Katherine Cole Sabel wrote the lyrics) and contributed to audio editing for a show featuring original work by Scotch'n'Soda student members.*
 - ***[This Side Up](https://www.youtube.com/watch?v=xkq9TU1V5Lo)*** (rehearsal & pit pianist) @ CMU School of Music, **02/2020**. Wr. Matthew Zwiebel.  
 *Played piano for a staged reading of one of Matt's original musicals.*
 - ***Birds & Beansprouts*** (rehearsal & pit pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
 *Performed at Playground XVII, a festival of independent student work.*
-- ***Virgula Divina*** (music director, conductor, pianist) @ Pittsburgh Festival Opera, **07/2019**. Comp. Karen Brown, libr. Jessica Lanay, dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.  
-*Excerpts from the new opera performed as part of the Fight for the Right series of original work mounted at the Pittsburgh Festival Opera.*
-- ***Night Flight of Minerva's Owl*** (music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Comp. Guang Yang, libr. Paula Cizmar, dir. Rose Freeman, co-mus. dir. Robert Frankenberry.  
-*Scene from the new opera also performed as part of Fight for the Right.*
-- ***Mister Rogers' Operas*** (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/); mus. dir., arr. Robert Frankenberry.  
-*Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 - ***High School Choosical*** (rehearsal & pit pianist) @ New Works Coffeehouse, **05/2019**. Comp. Joshua Gregg Fried, wr. Katherine Cole Sabel.  
 *Played piano in a short original musical featuring choose-your-own-adventure audience interaction.*
 
