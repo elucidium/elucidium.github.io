@@ -21,7 +21,7 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 ## productions and performances
 
 ### new works
-- ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).
+- ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
 *Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
 - ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
 *Composed songs for an original play.*
@@ -135,26 +135,20 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - violin (10+ years)
 - mallet percussion (2 years in high school, primarily marimba)
 - voice (3+ years, caveat: I have no formal training but I've accrued a good amount of working knowledge over the years)
+- guitar (~2 years, novice-level)
 
 ### software
 - MainStage 3
 - Dorico Pro 3.5
 - Finale
 - Logic Pro
+- Ableton Live
 - GarageBand
 - Audacity
+- I'm also working with [Isaac Hayward](https://isaachayward.com/) to finish developing [CueQueue](https://cuequeue.app/docs/), an Ableton Live plugin used to integrate playback into live performance.
 
 ### other
-- Music direction  
-*c.f. "Productions and Performances" section above*
-- Sightreading  
-*high proficiency; I'll happily sightread anything*
-- Conducting  
-*1 year of coursework, plus practical experience working with the CMU All-University Orchestra and conducting pits for shows I music direct*
-- Arranging and transcription  
-*I've learned that I can transcribe by ear very quickly*
-- Absolute pitch  
-*I suppose this one technically is not a learned skill...*
+Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription (both by ear and from MIDI stems in a DAW), absolute pitch
 
 ## skills I would like to acquire
 - A more formalized knowledge of **vocal technique**, both in classical and contemporary contexts! Everything I currently know is secondhand from being in rehearsal rooms with people far more experienced than me.
