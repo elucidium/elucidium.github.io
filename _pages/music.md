@@ -33,8 +33,6 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 *Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 
 ### opera
-- ***Iolanthe*** (asst. music director) @ [San José Light Opera Festival (Lyric Theatre)](https://www.lyrictheatre.org/), San José, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
-- ***A Celebration of Choruses: famous choruses from musicals, operetta, & opera*** (asst. music director) @ San José Light Opera Festival (Lyric Theatre), **07–08/2023**. Mus. dir. Michael Taylor.
 - ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
 - ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
