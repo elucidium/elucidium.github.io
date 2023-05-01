@@ -10,7 +10,7 @@ This page is intended to be a digital *curriculum vitae* for my musical endeavor
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A single-page résumé can be found here (rev. 12/28/2022).](/assets/pdf/xun-ruiran-music-public.pdf)
+[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf)
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
@@ -26,7 +26,7 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
 *Composed songs for an original play.*
 - ***Virgula Divina*** (music director, conductor, pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Comp. Karen Brown, libr. Jessica Lanay, dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.  
-*Excerpts from the new opera performed as part of the Fight for the Right series of original work mounted at the Pittsburgh Festival Opera.*
+*Excerpts from the new opera performed as part of Pittsburgh Festival Opera's Fight for the Right series of original work.*
 - ***Night Flight of Minerva's Owl*** (music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Comp. Guang Yang, libr. Paula Cizmar, dir. Rose Freeman, co-mus. dir. Robert Frankenberry.  
 *Scene from the new opera also performed as part of Fight for the Right.*
 - ***Mister Rogers' Operas*** (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/); mus. dir., arr. Robert Frankenberry.  
