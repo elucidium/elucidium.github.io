@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bridges of Madison County (submission materials)
+title: BoMC submission
 permalink: /bridges/
 ---
 
