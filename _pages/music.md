@@ -23,6 +23,8 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 ### new works
 - ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
 *Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
+- ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
+*Performed in a new musical staged as part of MWTC's First Annual New Works Festival.*
 - ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
 *Composed songs for an original play.*
 - ***Virgula Divina*** (music director, conductor, pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Comp. Karen Brown, libr. Jessica Lanay, dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.  
@@ -37,8 +39,8 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
 ### musical theatre
-- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), co-voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky​](https://www.valzvi.com/).
-- ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/about-me/).
+- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), co-voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
+- ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
 - ***Preludes*** (keyboard 1) @ [CMU School of Drama](https://www.drama.cmu.edu/), Pittsburgh, PA; **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
 - ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), Pittsburgh, PA; **04/2022**.
 - ***The Rocky Horror Show*** (co-music director, piano/conductor) @ Scotch'n'Soda Theatre, **10/2021**.
@@ -48,6 +50,12 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***Mamma Mia!*** (music director, keyboard 1) @ Scotch'n'Soda Theatre, **04/2019**.
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
 - ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
+
+### substitute engagements
+*Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
+- ***Falsettos*** (piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **07/2023**. Mus. dir. Val Zvinyatskovsky.
+- ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
+- ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
 
 ### student new works
 - ***124 Bluestone Road*** (transcriber) @ CMU School of Drama, **05/2022**. Wr. Sammie Paul and Nick Grosso.  
@@ -60,7 +68,7 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 *[Composed a piece](/assets/pdf/procrastination.pdf) (for which Katherine Cole Sabel wrote the lyrics) and contributed to audio editing for a show featuring original work by Scotch'n'Soda student members.*
 - ***[This Side Up](https://www.youtube.com/watch?v=xkq9TU1V5Lo)*** (rehearsal & pit pianist) @ CMU School of Music, **02/2020**. Wr. Matthew Zwiebel.  
 *Played piano for a staged reading of one of Matt's original musicals.*
-- ***Birds & Beansprouts*** (rehearsal & pit pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
+- ***Birds & Beansprouts*** (rehearsal & pit pianist) @ CMU School of Drama, **12/2019**. Wr. Joe Young, dir. [Emma Cordray](https://www.emmacordray.com/), mus. dir. Joshua Gregg Fried.  
 *Performed at Playground XVII, a festival of independent student work.*
 - ***High School Choosical*** (rehearsal & pit pianist) @ New Works Coffeehouse, **05/2019**. Comp. Joshua Gregg Fried, wr. Katherine Cole Sabel.  
 *Played piano in a short original musical featuring choose-your-own-adventure audience interaction.*
