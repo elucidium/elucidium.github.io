@@ -34,12 +34,11 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***Mister Rogers' Operas*** (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/); mus. dir., arr. Robert Frankenberry.  
 *Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 
-### opera
-- ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
-- ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
-
 ### musical theatre
-- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), co-voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
+- ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
+- ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **07/2023**. Mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
+- ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
+- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
 - ***Preludes*** (keyboard 1) @ [CMU School of Drama](https://www.drama.cmu.edu/), Pittsburgh, PA; **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
 - ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), Pittsburgh, PA; **04/2022**.
@@ -51,9 +50,13 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
 - ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
 
+### opera
+- ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
+- ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
+
 ### substitute engagements
 *Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
-- ***Falsettos*** (piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **07/2023**. Mus. dir. Val Zvinyatskovsky.
+- ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
 - ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
 - ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
 
