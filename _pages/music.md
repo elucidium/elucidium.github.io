@@ -16,7 +16,15 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
-**Ruiran Xun** (she/her) is a collaborative pianist and music director based in the Bay Area. She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **CMU All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions and projects in various capacities (composer, arranger, pianist). She is particularly interested in developing new works as a music director and/or music assistant.
+**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist and music director based in the Bay Area.
+
+She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, Ruiran was assistant conductor for the **CMU All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions and projects in various capacities (composer, arranger, pianist).
+
+Ruiran has contributed to many productions throughout the Bay in the year since she relocated to the area as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*), Cabrillo Stage (*The Hunchback of Notre Dame*), and The Pear Theatre (*Falsettos*).
+
+She is particularly interested in developing new works as a music director and/or music assistant.
+
+[*] name pronunciation: roo-RAN SHREEN
 
 ## productions and performances
 
@@ -36,7 +44,7 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ### musical theatre
 - ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
-- ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
+- ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
 - ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
 - ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
@@ -120,6 +128,10 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 - ***[S'n'Sings: Side by Side by Side](https://www.youtube.com/watch?v=DQADK3WWsYw)*** (**05/2020**).  
 *Music directed, played piano, and edited audio for a virtual performance of Side by Side by Side from Sondheim's Company.*
 
+### technical theatre
+- ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
+- ***Don Giovanni*** (mobile app operator) @ [Pittsburgh Opera](https://www.pittsburghopera.org/), Pittsburgh, PA; **10/2019**.
+
 ## work experience
 - **Scotch'n'Soda Theatre** (vice president), **05/2021 – 05/2022**, Pittsburgh, PA.  
 *Served as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.*
@@ -129,8 +141,6 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 *Served as secretary on the Board of Directors during my sophomore year, overseeing mainstage productions and writing a weekly update email to the organization.*
 - **CMU School of Music** (accompanist), **09/2018 – 03/2020**, Pittsburgh, PA.  
 *Played piano for first- and second-year voice students' lessons, and worked as a rehearsal pianist for a few of the departments' opera productions.*
-- **[Pittsburgh Opera](https://www.pittsburghopera.org/)** (mobile app operator), **10/2019**, Pittsburgh, PA.  
-*Ran cues for curated content provided through the Pittsburgh Opera Mobile App during the company's run of "Don Giovanni".*
 - **Pittsburgh Festival Opera** (resident artist pianist), **06/2019 – 07/2019**, Pittsburgh, PA.  
 *Worked on multiple productions, as well as played piano for coachings, recitals, and cabarets in the Young Professional Artists Program.*
  
