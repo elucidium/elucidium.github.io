@@ -43,11 +43,14 @@ She is particularly interested in developing new works as a music director and/o
 *Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 
 ### musical theatre
+- ***Ride the Cyclone*** (music director, piano/conductor) @ [Stanford TAPS](https://taps.stanford.edu/), Palo Alto, CA; **05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
 - ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
+- ***Sweeney Todd: The Demon Barber of Fleet Street*** (organ) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
+- ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
 - ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
 - ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
-- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
-- ***The Addams Family*** (music and vocal director) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
+- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
+- ***The Addams Family*** (music and vocal director, piano/conductor) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
 - ***Preludes*** (keyboard 1) @ [CMU School of Drama](https://www.drama.cmu.edu/), Pittsburgh, PA; **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
 - ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), Pittsburgh, PA; **04/2022**.
 - ***The Rocky Horror Show*** (co-music director, piano/conductor) @ Scotch'n'Soda Theatre, **10/2021**.
@@ -121,6 +124,8 @@ She is particularly interested in developing new works as a music director and/o
 *Accompanied the whole recital.*
 
 ### miscellaneous
+- ***Maestra Jam*** (**07/2023**) @ Power Station at Berklee NYC, New York, NY.  
+Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
 - ***[Translating Belonging: German-Jewish Poetry in Classical Art Song](https://www.youtube.com/playlist?list=PLPwBA8ZVjdj2DCICJZHZd7Ev1H84Kwwyr)*** (**05/2021**).  
 *Virtually collaborated with Anna Sophia Boyd on their [senior capstone project](https://translatingidentity.wordpress.com/) at CMU.*
 - ***[PianOpera!](https://www.youtube.com/watch?v=l7qj9mLp0u8)*** (**07/2020**).  
@@ -173,7 +178,5 @@ Music direction, vocal direction, audition accompaniment, sightreading and sight
 - A more formalized knowledge of **vocal technique**, both in classical and contemporary contexts! Everything I currently know is secondhand from being in rehearsal rooms with people far more experienced than me.
 - A working knowledge of **orchestration** so that I can better assist in developing new musicals.
 - An understanding of **sound engineering** beyond the miscellaneous knowledge I've picked up while music directing! 
-
-## miscellaneous
 
 References available upon [request](mailto:xun.ruiran@gmail.com). Affiliations: [Maestra](https://maestramusic.org/profile/ruiran-xun/), [MUSE](https://museonline.org/profile/ruiran-xun/), [AFM Local 6](https://afm6.org/).
