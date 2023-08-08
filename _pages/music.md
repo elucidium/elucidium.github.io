@@ -10,7 +10,7 @@ This page is intended to be a digital *curriculum vitae* for my musical endeavor
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf)
+[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf) (At some point when this page gets more unwieldy than it already is, I'll make an abridged web version of it.)
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
@@ -20,7 +20,7 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, Ruiran was assistant conductor for the **CMU All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions and projects in various capacities (composer, arranger, pianist).
 
-Ruiran has contributed to many productions throughout the Bay in the year since she relocated to the area as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*), Cabrillo Stage (*The Hunchback of Notre Dame*), and The Pear Theatre (*Falsettos*).
+Ruiran has contributed to many productions throughout the Bay in the year since she relocated to the area as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*, *The Little Mermaid*), Cabrillo Stage (*The Hunchback of Notre Dame*), The Pear Theatre (*Falsettos*), and South Bay Musical Theatre (*A Little Night Music*).
 
 She is particularly interested in developing new works as a music director and/or music assistant.
 
@@ -47,6 +47,7 @@ She is particularly interested in developing new works as a music director and/o
 - ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (organ) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
+- ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
 - ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
 - ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
 - ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
@@ -59,14 +60,16 @@ She is particularly interested in developing new works as a music director and/o
 - ***Catch Me If You Can*** (rehearsal pianist, keyboard 1) @ Scotch'n'Soda Theatre, **10/2019**.
 - ***Mamma Mia!*** (music director, keyboard 1) @ Scotch'n'Soda Theatre, **04/2019**.
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
-- ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), **02/2018**.
+- ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), Alexandria, VA; **02/2018**.
 
 ### opera
+- ***Iolanthe*** (rehearsal pianist) @ Lyric Theatre, San Jose, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
 - ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
 - ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
 ### substitute engagements
 *Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
+- ***Rent*** (rehearsal pianist) @ South Bay Musical Theatre, Saratoga, CA; **08/2023**. Voc. dir. Andrea Kline.
 - ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
 - ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
 - ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
@@ -150,13 +153,13 @@ Performed in a reading session hosted by [Maestra](https://maestramusic.org/) fe
 *Worked on multiple productions, as well as played piano for coachings, recitals, and cabarets in the Young Professional Artists Program.*
  
 ## education
-**Carnegie Mellon University**, **08/2018 – 05/2022**, Pittsburgh, PA. Earned dual B.S. degrees in Chemistry and Computer Science with a minor in Collaborative Piano. (More information on how that happened [here](/courses/) if you're curious!)
+**Carnegie Mellon University**, **08/2018 – 05/2022**, Pittsburgh, PA. Earned dual B.S. degrees in Chemistry and Computer Science with a minor in Collaborative Piano. (More information [here](/courses/) if you're curious!)
 
 ## skills I have
 
 ### instruments
-- piano (15+ years)
-- violin (10+ years)
+- piano (18+ years, classically trained)
+- violin (10+ years, classically trained)
 - mallet percussion (2 years in high school, primarily marimba)
 - voice (3+ years, caveat: I have no formal training but I've accrued a good amount of working knowledge over the years)
 - guitar (~2 years, novice-level)
