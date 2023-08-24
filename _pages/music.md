@@ -43,7 +43,6 @@ She is particularly interested in developing new works as a music director and/o
 *Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 
 ### musical theatre
-- ***Ride the Cyclone*** (music director, piano/conductor) @ [Stanford TAPS](https://taps.stanford.edu/), Palo Alto, CA; **05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
 - ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (organ) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
@@ -69,7 +68,8 @@ She is particularly interested in developing new works as a music director and/o
 
 ### substitute engagements
 *Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
-- ***Rent*** (rehearsal pianist) @ South Bay Musical Theatre, Saratoga, CA; **08/2023**. Voc. dir. Andrea Kline.
+- ***Matilda*** (keyboard 1) @ Palo Alto Players, Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
+- ***Rent*** (rehearsal pianist, keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **08–10/2023**. Voc. dir. Andrea Kline, mus. dir. Christine Lovejoy.
 - ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
 - ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
 - ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
