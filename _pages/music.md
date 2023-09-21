@@ -29,6 +29,7 @@ She is particularly interested in developing new works as a music director and/o
 ## productions and performances
 
 ### new works
+- ***TRAVELS*** (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).
 - ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
 *Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
 - ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
@@ -44,7 +45,7 @@ She is particularly interested in developing new works as a music director and/o
 
 ### musical theatre
 - ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes.
-- ***Sweeney Todd: The Demon Barber of Fleet Street*** (organ) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
+- ***Sweeney Todd: The Demon Barber of Fleet Street*** (keyboardist, sub. conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
 - ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
 - ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
