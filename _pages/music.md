@@ -6,11 +6,11 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
+This page (rev. 01/11/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf) (At some point when this page gets more unwieldy than it already is, I'll make an abridged web version of it.)
+[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf)
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
@@ -20,20 +20,68 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, Ruiran was assistant conductor for the **CMU All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions and projects in various capacities (composer, arranger, pianist).
 
-Ruiran has contributed to many productions throughout the Bay in the year since she relocated to the area as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), Cabrillo Stage (*The Hunchback of Notre Dame*), The Pear Theatre (*Falsettos*), and South Bay Musical Theatre (*A Little Night Music*).
+Ruiran has contributed to many productions throughout the Bay as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), Cabrillo Stage (*The Hunchback of Notre Dame*), The Pear Theatre (*Falsettos*), and South Bay Musical Theatre (*A Little Night Music*).
 
-She is particularly interested in developing new works as a music director and/or music assistant.
+She is particularly interested in developing new works as a music director and/or music assistant, and will be relocating to NYC in the summer of 2024.
 
 [*] name pronunciation: roo-RAN SHREEN
 
-## productions and performances
+## 2022–present (Bay Area)
 
-### new works
-- ***TRAVELS*** (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).
+### productions and performances
+
+**new works**
+- ***TRAVELS*** (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).  
+*Prepared and maintained vocal scores before and during the developmental workshop, and assisted in teaching music to the performers.*
 - ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
 *Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
 - ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
 *Performed in a new musical staged as part of MWTC's First Annual New Works Festival.*
+
+**musical theatre**
+- ***Mary Poppins*** (rehearsal pianist) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
+- ***Assassins*** (music director, piano/conductor) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
+- ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
+- ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
+- ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
+- ***A Little Night Music*** (music director, conductor) @ South Bay Musical Theatre, Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes, voc. dir. Anita Hsiung Carey.
+- ***Sweeney Todd: The Demon Barber of Fleet Street*** (keyboard 1, sub. conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
+- ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
+- ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
+- ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. Val Zvinyatskovsky.
+- ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
+- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
+- ***The Addams Family*** (music and vocal director, piano/conductor) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
+
+**operetta**
+- ***Iolanthe*** (rehearsal pianist) @ Lyric Theatre, San Jose, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
+
+**concerts**
+- **A Night On Broadway: Broadway Miscast** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **03/2024**.
+- ***Winter Harmonies*** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **12/2023**.
+
+**substitute engagements**
+
+*Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
+
+- ***Matilda*** (keyboard 1) @ Palo Alto Players, Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
+- ***Rent*** (rehearsal pianist, keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **08–10/2023**. Voc. dir. Andrea Kline, mus. dir. Christine Lovejoy.
+- ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
+- ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
+- ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
+
+**miscellaneous**
+- ***Maestra Jam*** (**07/2023**) @ Power Station at Berklee NYC, New York, NY.  
+Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/)); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
+
+**technical theatre**
+- ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
+
+## 2018–2022 (college)
+
+### productions and performances
+
+**new works**
 - ***[The Great Hunger](https://www.indiegogo.com/projects/the-great-hunger/#/)*** (composer) @ [The Tank](https://thetanknyc.org/), New York, NY; **09/2021**. Wr. Kallan Dana, dir. [Erica Schnitzer](https://www.ericaschnitzer.com/).  
 *Composed songs for an original play.*
 - ***Virgula Divina*** (music director, conductor, pianist) @ [Pittsburgh Festival Opera](https://pittsburghfestivalopera.org/), **07/2019**. Comp. Karen Brown, libr. Jessica Lanay, dir. [Rose Freeman](https://www.rosefreeman.org/), co-mus. dir. Robert Frankenberry.  
@@ -43,16 +91,7 @@ She is particularly interested in developing new works as a music director and/o
 - ***Mister Rogers' Operas*** (asst. music director, pianist) @ Pittsburgh Festival Opera, **07/2019**. Dir. [Tomé Cousin](https://www.tomecousin.com/); mus. dir., arr. Robert Frankenberry.  
 *Supported the development of a new show based upon two opera episodes written and composed by Fred Rogers.*
 
-### musical theatre
-- ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
-- ***A Little Night Music*** (music director, conductor) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes, voc. dir. Anita Hsuing Carey.
-- ***Sweeney Todd: The Demon Barber of Fleet Street*** (keyboard 1, sub. conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
-- ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
-- ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
-- ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. Val Zvinyatskovsky.
-- ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
-- ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
-- ***The Addams Family*** (music and vocal director, piano/conductor) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
+**musical theatre**
 - ***Preludes*** (keyboard 1) @ [CMU School of Drama](https://www.drama.cmu.edu/), Pittsburgh, PA; **04/2022**. Dir. [Moses Garcia](https://www.mosesgarcia.com/), mus. dir. Matthew Zwiebel.
 - ***Rent*** (music director, piano/conductor) @ [Scotch'n'Soda Theatre](https://www.snstheatre.org/), Pittsburgh, PA; **04/2022**.
 - ***The Rocky Horror Show*** (co-music director, piano/conductor) @ Scotch'n'Soda Theatre, **10/2021**.
@@ -63,20 +102,11 @@ She is particularly interested in developing new works as a music director and/o
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (rehearsal pianist, mallet percussion) @ Scotch'n'Soda Theatre, **10/2018**. 
 - ***Mary Poppins*** (rehearsal pianist, keyboard 1) @ [TJ Theater Arts](https://tjtheaterarts.com/), Alexandria, VA; **02/2018**.
 
-### opera
-- ***Iolanthe*** (rehearsal pianist) @ Lyric Theatre, San Jose, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
+**opera**
 - ***The Turn of the Screw*** (rehearsal pianist) @ [CMU School of Music](https://www.cmu.edu/cfa/music/), Pittsburgh, PA; **04/2020**. Dir. [Kyle Lang](https://www.kylelang.com/), cond. [Sara Jobin](https://www.sarajobin.com/). Rehearsal process abridged due to COVID-19.
 - ***Die Liebe der Danae*** (pit pianist, keyboard 1) @ Pittsburgh Festival Opera, Pittsburgh, PA; **07/2019**. Dir. Rose Freeman, cond. [Benjamin Makino](https://benjaminmakino.com/).
 
-### substitute engagements
-*Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
-- ***Matilda*** (keyboard 1) @ Palo Alto Players, Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
-- ***Rent*** (rehearsal pianist, keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **08–10/2023**. Voc. dir. Andrea Kline, mus. dir. Christine Lovejoy.
-- ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
-- ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
-- ***Something Rotten*** (rehearsal pianist) @ [Musical Theatre Works](https://musicaltheatreworks.org/), San Francisco, CA; **12/2022**. Mus. & voc. dir. Meghan Jolliffe.
-
-### student new works
+**student new works**
 - ***124 Bluestone Road*** (transcriber) @ CMU School of Drama, **05/2022**. Wr. Sammie Paul and Nick Grosso.  
 *Transcribed the iteration of the show performed in 12/2019 at Playground XVII.*
 - ***LIMBO*** (arranger, music director, pianist) @ CMU School of Drama, **04/2022**. Wr. Nick Grosso, dir. Katia Peppas.  
@@ -92,7 +122,7 @@ She is particularly interested in developing new works as a music director and/o
 - ***High School Choosical*** (rehearsal & pit pianist) @ New Works Coffeehouse, **05/2019**. Comp. Joshua Gregg Fried, wr. Katherine Cole Sabel.  
 *Played piano in a short original musical featuring choose-your-own-adventure audience interaction.*
 
-### cabarets
+**cabarets**
 - ***Matt Zwiebel's Musical Theatre Cabaret*** (**05/2022**).  
 *Played piano in a cabaret featuring 14 of Matt's original musical theatre songs.*
 - ***[Everything In Its Time: A Musical Cabaret](https://www.youtube.com/watch?v=ZG-V3VFSMrI)*** (**02/2022**).  
@@ -104,7 +134,7 @@ She is particularly interested in developing new works as a music director and/o
 - ***11th Annual Benefit Cabaret*** (**10/2018**).  
 *Played piano for a Scotch'n'Soda cabaret benefitting the Alumni Theater Company.*
 
-### concerts
+**concerts**
 - ***Josiah Handelman's Senior Composition Recital*** (**05/2022**).  
 *Performed in ["Sunny Shore"](https://youtu.be/acaWBXm6aZM?t=680) on piano.*
 - ***Graduate Student Composer Concert*** (**05/2022**).  
@@ -128,21 +158,18 @@ She is particularly interested in developing new works as a music director and/o
 - ***Jieying Zhang's Master's Recital*** (**04/2019**).  
 *Accompanied the whole recital.*
 
-### miscellaneous
-- ***Maestra Jam*** (**07/2023**) @ Power Station at Berklee NYC, New York, NY.  
-Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
+**miscellaneous**
 - ***[Translating Belonging: German-Jewish Poetry in Classical Art Song](https://www.youtube.com/playlist?list=PLPwBA8ZVjdj2DCICJZHZd7Ev1H84Kwwyr)*** (**05/2021**).  
 *Virtually collaborated with Anna Sophia Boyd on their [senior capstone project](https://translatingidentity.wordpress.com/) at CMU.*
 - ***[PianOpera!](https://www.youtube.com/watch?v=l7qj9mLp0u8)*** (**07/2020**).  
 *Performed in a pianist-only showcase for Pittsburgh Festival Opera's summer season.*
 - ***[S'n'Sings: Side by Side by Side](https://www.youtube.com/watch?v=DQADK3WWsYw)*** (**05/2020**).  
-*Music directed, played piano, and edited audio for a virtual performance of Side by Side by Side from Sondheim's Company.*
+*Music directed, played piano, and edited audio for a virtual performance of "Side by Side by Side" from Sondheim's* Company.
 
-### technical theatre
-- ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
+**technical theatre**
 - ***Don Giovanni*** (mobile app operator) @ [Pittsburgh Opera](https://www.pittsburghopera.org/), Pittsburgh, PA; **10/2019**.
 
-## work experience
+### work experience
 - **Scotch'n'Soda Theatre** (vice president), **05/2021 – 05/2022**, Pittsburgh, PA.  
 *Served as VP on the Board during my senior year, overseeing mainstage productions and managing a variety of administrative tasks throughout the year.*
 - **CMU All-University Orchestra** (assistant conductor), **05/2021 – 04/2022**, Pittsburgh, PA.  
@@ -172,9 +199,6 @@ Performed in a reading session hosted by [Maestra](https://maestramusic.org/) fe
 - Finale
 - Logic Pro
 - Ableton Live
-- GarageBand
-- Audacity
-- I'm also working with [Isaac Hayward](https://isaachayward.com/) to finish developing [CueQueue](https://cuequeue.app/docs/), an Ableton Live plugin used to integrate playback into live performance.
 
 ### other
 Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription (both by ear and from MIDI stems in a DAW), absolute pitch
