@@ -40,7 +40,6 @@ She is particularly interested in developing new works as a music director and/o
 
 **musical theatre**
 - ***Mary Poppins*** (rehearsal pianist) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
-- ***Assassins*** (music director, piano/conductor) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
