@@ -6,7 +6,7 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page (rev. 01/11/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
+This page (rev. 02/06/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
@@ -26,7 +26,7 @@ She is particularly interested in developing new works as a music director and/o
 
 [*] name pronunciation: roo-RAN SHREEN
 
-## 2022–present (Bay Area)
+## 2022–2024 (Bay Area)
 
 ### productions and performances
 
@@ -34,21 +34,25 @@ She is particularly interested in developing new works as a music director and/o
 - ***TRAVELS*** (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).  
 *Prepared and maintained vocal scores before and during the developmental workshop, and assisted in teaching music to the performers.*
 - ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
-*Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.* 
+*Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.  
+[BroadwayWorld Sacramento article](https://www.broadwayworld.com/sacramento/article/Cast-and-Creative-Team-Announced-for-JUSTICE-A-NEW-MUSICAL-at-Marin-Theatre-Company-20221227).* 
 - ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
 *Performed in a new musical staged as part of MWTC's First Annual New Works Festival.*
 
 **musical theatre**
-- ***Mary Poppins*** (rehearsal pianist) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
+- ***In the Heights*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07–08/2024**. Dir. Estrella Esparza-Johnson, mus. dir. Michael J. McGushin.
+- ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
-- ***A Little Night Music*** (music director, conductor) @ South Bay Musical Theatre, Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes, voc. dir. Anita Hsiung Carey.
+- ***A Little Night Music*** (music director, conductor) @ South Bay Musical Theatre, Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes, voc. dir. Anita Hsiung Carey.  
+*"... couples waltz in ever-changing circles and couplings... all the while dancing to an admirably played score by the 15-person orchestra under the direction of Ruiran Xun." – [Talkin' Broadway](https://www.talkinbroadway.com/page/regional/sanjose/sj238.html)*  
+*Earned the [Bobo Reardon Newcomer Award](https://southbaymt.com/about-sbmt/awards/). [BroadwayWorld San Francisco article](https://www.broadwayworld.com/san-francisco/article/South-Bay-Musical-Theatre-Announces-Cast-And-Creative-Team-For-A-LITTLE-NIGHT-MUSIC-January-27-February-17-20240112).*
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (keyboard 1, sub. conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
 - ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
 - ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
 - ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. Val Zvinyatskovsky.
-- ***The Hunchback of Notre Dame*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
+- ***The Hunchback of Notre Dame*** (rehearsal pianist) @ Cabrillo Stage, Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
 - ***Next to Normal*** (vocal director, rehearsal & pit pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **04–05/2023**. Dir. Vinh G. Nguyen, co-voc. dir. Stacy Levin, mus. dir. Val Zvinyatskovsky.
 - ***The Addams Family*** (music and vocal director, piano/conductor) @ [Landmark Musical Theatre](https://www.landmarkmusicals.com/), San Francisco, CA; **10–11/2022**. Dir. [Rana Rines](http://www.ranarines.com/).
 
@@ -63,7 +67,7 @@ She is particularly interested in developing new works as a music director and/o
 
 *Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
 
-- ***Matilda*** (keyboard 1) @ Palo Alto Players, Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
+- ***Matilda*** (keyboard 1) @ [Palo Alto Players](https://paplayers.org/), Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
 - ***Rent*** (rehearsal pianist, keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **08–10/2023**. Voc. dir. Andrea Kline, mus. dir. Christine Lovejoy.
 - ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
 - ***Starmites*** (keyboard 2) @ [Playful People Productions](https://playfulpeople.org/), San Jose, CA; **05/2023**. Mus. dir. Holly Jones.
