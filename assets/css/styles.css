@@ -89,7 +89,7 @@ body {
 
 #page-header {
   color: white;
-  background-color: #028090b0;
+  background-color: #05668dd0;
   border-radius: 29px;
   padding: 5px 25px;
   margin: 25px 0px;
@@ -141,12 +141,14 @@ p {
 }
 
 .jumbotron.d-flex.justify-content-center.align-items-center {
-  background: linear-gradient(#028090, rgb(253,255,227));
+  background: linear-gradient(#02809080, rgb(253,255,227)), url("/assets/img/2023-sbmt-alnm.jpg");
   background-color: rgba(240,243,189,0.4);
   border-radius: 0;
   height: 600px;
   padding-bottom: 48px;
   width: 100%;
+  background-size: cover;
+  background-position: right;
 }
 
 #particles {
