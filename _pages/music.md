@@ -16,13 +16,15 @@ Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
-**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist and music director based in the Bay Area.
+**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist and music director based in the San Francisco Bay Area.
 
-She spent her undergraduate career at Carnegie Mellon University studying chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, Ruiran was assistant conductor for the **CMU All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, CMU's student-led theatre organization; and contributed to many more productions and projects in various capacities (composer, arranger, pianist).
+She is a 2022 graduate of Carnegie Mellon University, where she received B.S. degrees in chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. She also earned a minor in collaborative piano from the School of Music. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, a student-led theatre organization; and participated in many more projects in various capacities (composer, arranger, pianist).
 
-Ruiran has contributed to many productions throughout the Bay as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Companies she's worked at include Marin Theatre Company (*JUSTICE: A New Musical*), Sunnyvale Community Players (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), Cabrillo Stage (*The Hunchback of Notre Dame*), The Pear Theatre (*Falsettos*), and South Bay Musical Theatre (*A Little Night Music*).
+Throughout the Bay, Ruiran has contributed to many productions as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Some local companies she's worked for include **Sunnyvale Community Players** (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), **Cabrillo Stage** (*The Hunchback of Notre Dame*, *In the Heights*), **The Pear Theatre** (*Falsettos*), **South Bay Musical Theatre** (*A Little Night Music*, *Mary Poppins*), **Foothill Music Theatre** (*Legally Blonde*), and **Stanford TAPS** (*Assassins*).
 
-She is particularly interested in developing new works as a music director and/or music assistant, and will be relocating to NYC in the summer of 2024.
+Ruiran is particularly interested in developing new works as a music director and/or music assistant. Recent new work credits include *JUSTICE: A New Musical*, written by Lauren Gunderson, Kait Kerrigan, and Bree Lowdermilk (music director, **Marin Theatre Company** workshop & production, 2022–2023); and *TRAVELS*, written by James Harrison Monaco (music assistant, **Ars Nova** workshop, 2023).
+
+She will be relocating to NYC in the summer of 2024.
 
 [*] name pronunciation: roo-RAN SHREEN
 
@@ -42,6 +44,7 @@ She is particularly interested in developing new works as a music director and/o
 **musical theatre**
 - ***In the Heights*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07–08/2024**. Dir. Estrella Esparza-Johnson, mus. dir. Michael J. McGushin.
 - ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
+- ***Assassins*** (vocal director, rehearsal pianist) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
