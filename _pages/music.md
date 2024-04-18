@@ -10,7 +10,7 @@ This page (rev. 02/06/2024) is intended to be a digital *curriculum vitae* for m
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A single-page résumé can be found here (rev. 05/01/2023).](/assets/pdf/xun-ruiran-music-public.pdf)
+[A single-page résumé can be found here (rev. 04/17/2024).](/assets/pdf/xun-ruiran-music-public.pdf)
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
@@ -34,7 +34,7 @@ She will be relocating to NYC in the summer of 2024.
 
 **new works**
 - ***TRAVELS*** (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).  
-*Prepared and maintained vocal scores before and during the developmental workshop, and assisted in teaching music to the performers.*
+*Prepared scores pre-workshop, implemented changes during the workshop, and assisted actors with music review.*
 - ***JUSTICE: A New Musical*** (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
 *Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.  
 [BroadwayWorld Sacramento article](https://www.broadwayworld.com/sacramento/article/Cast-and-Creative-Team-Announced-for-JUSTICE-A-NEW-MUSICAL-at-Marin-Theatre-Company-20221227).* 
@@ -44,7 +44,7 @@ She will be relocating to NYC in the summer of 2024.
 **musical theatre**
 - ***In the Heights*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07–08/2024**. Dir. Estrella Esparza-Johnson, mus. dir. Michael J. McGushin.
 - ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
-- ***Assassins*** (vocal director, rehearsal pianist) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/).
+- ***Assassins*** (vocal director, rehearsal pianist, keyboard 1) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/), mus. dir. [Sixto F. Montesinos Jr.](https://www.sixtomontesinos.com/).
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
@@ -62,14 +62,18 @@ She will be relocating to NYC in the summer of 2024.
 **operetta**
 - ***Iolanthe*** (rehearsal pianist) @ Lyric Theatre, San Jose, CA; **07–08/2023**. Dir. Doreen Finkelstein, mus. dir. Michael Taylor.
 
-**concerts**
-- **A Night On Broadway: Broadway Miscast** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **03/2024**.
+**concerts & events**
+- ***Black & White Time Warp Ball*** (pianist) @ [City Lights Theater Company](https://cltc.org/), San Jose, CA; **04/2024**.
+- ***A Night On Broadway: Broadway Miscast*** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **03/2024**.
 - ***Winter Harmonies*** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **12/2023**.
+- ***Spring Soirée*** (pianist) @ [Theatre Bay Area](https://www.theatrebayarea.org/), San Francisco, CA; **05/2023**.
+- (Not listed: collaborative pianist for several student recitals.)
 
 **substitute engagements**
 
 *Dates reflect the duration of my involvement, not the duration of the productions' runs (as is otherwise the case on this page).*
 
+- ***Violet*** (keyboard 1) @ [West Valley College](https://www.westvalley.edu/academics/theater/), Saratoga, CA; **04/2024**. Mus. dir. Troy Davis.
 - ***Matilda*** (keyboard 1) @ [Palo Alto Players](https://paplayers.org/), Palo Alto, CA; **09/2023**. Mus. dir. Amanda Ku.
 - ***Rent*** (rehearsal pianist, keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **08–10/2023**. Voc. dir. Andrea Kline, mus. dir. Christine Lovejoy.
 - ***Into the Woods*** (pianist) @ [SCU Presents](https://scupresents.org/), Santa Clara, CA; **06/2023**. Mus. dir. [Scot Hanna-Weir](https://scothw.com/).
@@ -81,6 +85,7 @@ She will be relocating to NYC in the summer of 2024.
 Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/)); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
 
 **technical theatre**
+- ***Thumbelina*** (spotlight operator) @ [Osipova Ballet Academy](https://www.osipovaballetacademy.com/), Mountain View, CA; **03/2024**.
 - ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
 
 ## 2018–2022 (college)
@@ -193,10 +198,10 @@ Performed in a reading session hosted by [Maestra](https://maestramusic.org/) fe
 ## skills I have
 
 ### instruments
-- piano (18+ years, classically trained)
-- violin (10+ years, classically trained)
+- piano (19+ years, classically trained)
+- violin (11+ years, classically trained)
 - mallet percussion (2 years in high school, primarily marimba)
-- voice (3+ years, caveat: I have no formal training but I've accrued a good amount of working knowledge over the years)
+- voice (4+ years)
 - guitar (~2 years, novice-level)
 
 ### software
