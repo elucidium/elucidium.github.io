@@ -65,8 +65,11 @@ Advanced Studies Diploma (June 2018)
 
 ## work experience
 
+### Staff Software Engineer
+*(Palo Alto Networks, Santa Clara, CA; 11/2023--present)*
+
 ### Software Engineer
-*(Palo Alto Networks, Santa Clara, CA; 08/2022--present)*
+*(Palo Alto Networks, Santa Clara, CA; 08/2022--10/2023)*
 
 ### 15-122 Instructor of Record
 *(CMU School of Computer Science, Pittsburgh, PA; 05/2022--06/2022)*
