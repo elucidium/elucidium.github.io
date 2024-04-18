@@ -6,7 +6,7 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page (rev. 02/06/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
+This page (rev. 04/17/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
