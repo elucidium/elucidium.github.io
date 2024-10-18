@@ -6,29 +6,39 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page (rev. 04/17/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
+This page (rev. 10/18/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
 
 Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
 
-[A single-page résumé can be found here (rev. 04/17/2024).](/assets/pdf/xun-ruiran-music-public.pdf)
+[A single-page résumé can be found here (rev. 10/18/2024).](/assets/pdf/xun-ruiran-music-public.pdf)
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
-**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist and music director based in the San Francisco Bay Area.
+**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist and music director based in Jersey City.
 
 She is a 2022 graduate of Carnegie Mellon University, where she received B.S. degrees in chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. She also earned a minor in collaborative piano from the School of Music. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, a student-led theatre organization; and participated in many more projects in various capacities (composer, arranger, pianist).
 
-Throughout the Bay, Ruiran has contributed to many productions as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Some local companies she's worked for include **Sunnyvale Community Players** (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), **Cabrillo Stage** (*The Hunchback of Notre Dame*, *In the Heights*), **The Pear Theatre** (*Falsettos*), **South Bay Musical Theatre** (*A Little Night Music*, *Mary Poppins*), **Foothill Music Theatre** (*Legally Blonde*), and **Stanford TAPS** (*Assassins*).
+From 2022 to 2024, while residing in the SF Bay Area, Ruiran contributed to many productions as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Some local companies she's worked for include **Sunnyvale Community Players** (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), **Cabrillo Stage** (*The Hunchback of Notre Dame*, *In the Heights*), **The Pear Theatre** (*Falsettos*), **South Bay Musical Theatre** (*A Little Night Music*, *Mary Poppins*), **Foothill Music Theatre** (*Legally Blonde*), and **Stanford TAPS** (*Assassins*).
 
 Ruiran is particularly interested in developing new works as a music director and/or music assistant. Recent new work credits include *JUSTICE: A New Musical*, written by Lauren Gunderson, Kait Kerrigan, and Bree Lowdermilk (music director, **Marin Theatre Company** workshop & production, 2022–2023); and *TRAVELS*, written by James Harrison Monaco (music assistant, **Ars Nova** workshop, 2023).
 
-She will be relocating to NYC in the summer of 2024.
-
 [*] name pronunciation: roo-RAN SHREEN
 
-## 2022–2024 (Bay Area)
+## 2024–present (NYC)
+
+### productions and performances
+
+**new works**
+- ***Spiral Bound*** (music/vocal director) @ [Racket NYC](https://racketnyc.com/), New York, NY; **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
+*Fundraiser concert presentation. Updated scores, reworked vocal arrangements, taught actors music, piano-conducted the performance, coordinated a multi-track recording with venue techs, and mixed/mastered the audio capture for archival footage purposes.*
+
+**concerts & events**
+- ***Vampira*** (pianist) @ [Salon Avec Moi](https://www.salonavecmoi.com/), New York, NY; **10/2024**.  
+*Performed a program of vocal selections mostly from the classical repertoire. Footage to come.*
+
+## 2022–2024 (SF Bay Area)
 
 ### productions and performances
 
@@ -42,8 +52,10 @@ She will be relocating to NYC in the summer of 2024.
 *Performed in a new musical staged as part of MWTC's First Annual New Works Festival.*
 
 **musical theatre**
+- ***No, No, Nanette*** (orch. reductions, temp. stage manager) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **09–10/2024**. Dir. [Doug Greer](https://www.douggreeronline.com/), mus. dir. [George Yefchak](https://yefchak.com/).
 - ***In the Heights*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07–08/2024**. Dir. Estrella Esparza-Johnson, mus. dir. Michael J. McGushin.
-- ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **05–06/2024**. Mus. & voc. dir. David Herberg.
+- ***American Psycho*** (Ableton programmer) @ [BAD Musical Theatre](https://www.badmusicaltheatre.com/), **07/2024**. Dir. [Justin P. Lopez](https://justinplopez.com/).
+- ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **05–06/2024**. Dir. Scott Ludwig, mus. & voc. dir. David Herberg.
 - ***Assassins*** (vocal director, rehearsal pianist, keyboard 1) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/), mus. dir. [Sixto F. Montesinos Jr.](https://www.sixtomontesinos.com/).
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
@@ -85,10 +97,11 @@ She will be relocating to NYC in the summer of 2024.
 Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/)); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
 
 **technical theatre**
+- ***Being Alive*** (sound load-in crew) @ [TheatreWorks Silicon Valley](https://theatreworks.org/), Mountain View, CA; **05/2024**.
 - ***Thumbelina*** (spotlight operator) @ [Osipova Ballet Academy](https://www.osipovaballetacademy.com/), Mountain View, CA; **03/2024**.
 - ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
 
-## 2018–2022 (college)
+## 2018–2022 (CMU undergrad)
 
 ### productions and performances
 
@@ -200,23 +213,14 @@ Performed in a reading session hosted by [Maestra](https://maestramusic.org/) fe
 ### instruments
 - piano (19+ years, classically trained)
 - violin (11+ years, classically trained)
-- mallet percussion (2 years in high school, primarily marimba)
+- mallet percussion (2 years in high school marching band & drumline, primarily marimba)
 - voice (4+ years)
 - guitar (~2 years, novice-level)
 
 ### software
-- MainStage 3
-- Dorico Pro 3.5
-- Finale
-- Logic Pro
-- Ableton Live
+MainStage, Dorico, Sibelius, Finale, Logic Pro, Ableton Live, QLab, Final Cut Pro
 
 ### other
-Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription (both by ear and from MIDI stems in a DAW), absolute pitch
+Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription (both by ear and from MIDI stems in a DAW), absolute pitch, basic recording & live audio engineering
 
-## skills I would like to acquire
-- A more formalized knowledge of **vocal technique**, both in classical and contemporary contexts! Everything I currently know is secondhand from being in rehearsal rooms with people far more experienced than me.
-- A working knowledge of **orchestration** so that I can better assist in developing new musicals.
-- An understanding of **sound engineering** beyond the miscellaneous knowledge I've picked up while music directing! 
-
-References available upon [request](mailto:xun.ruiran@gmail.com). Affiliations: [Maestra](https://maestramusic.org/profile/ruiran-xun/), [MUSE](https://museonline.org/profile/ruiran-xun/), [AFM Local 6](https://afm6.org/).
+References available upon [request](mailto:xun.ruiran@gmail.com). Affiliations: [Maestra](https://maestramusic.org/profile/ruiran-xun/), [MUSE](https://museonline.org/profile/ruiran-xun/), [AFM Local 802](https://www.local802afm.org/).
