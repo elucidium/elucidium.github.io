@@ -97,6 +97,8 @@ Ruiran is particularly interested in developing new works as a music director an
 **miscellaneous**
 - ***Maestra Jam*** (**07/2023**) @ Power Station at Berklee NYC, New York, NY.  
 Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/)); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
+- **Audition accompaniment:** [American Conservatory Theatre](https://www.act-sf.org/), [Theatre Bay Area](https://www.theatrebayarea.org/)'s 2024 General Auditions @ [Berkeley Rep](https://www.berkeleyrep.org/), BAD Musical Theatre, Foothill Music Theatre, Harker Conservatory, Lyric Theatre, Palo Alto Players, South Bay Musical Theatre, Stanford TAPS, Sunnyvale Community Players.
+- **Session musician:** demo recordings with Rana Rines.
 
 **technical theatre**
 - ***The Right*** (sound engineer) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **06/2024**. Presentation of original musical by Val Zvinyatskovsky.
@@ -211,19 +213,19 @@ Performed in a reading session hosted by [Maestra](https://maestramusic.org/) fe
 ## education
 **Carnegie Mellon University**, **08/2018 – 05/2022**, Pittsburgh, PA. Earned dual B.S. degrees in Chemistry and Computer Science with a minor in Collaborative Piano. (More information [here](/courses/) if you're curious!)
 
-## skills I have
+## skills
 
 ### instruments
 - piano (19+ years, classically trained)
 - violin (11+ years, classically trained)
 - mallet percussion (2 years in high school marching band & drumline, primarily marimba)
 - voice (4+ years)
-- guitar (~2 years, novice-level)
+- guitar (2+ years)
 
 ### software
-MainStage, Dorico, Sibelius, Finale, Logic Pro, Ableton Live, QLab, Final Cut Pro
+MainStage, Dorico (early adopter!), Sibelius, Finale, Logic Pro, Ableton Live, QLab, Final Cut Pro
 
 ### other
-Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription (both by ear and from MIDI stems in a DAW), absolute pitch, basic recording & live audio engineering
+Music direction, vocal direction, audition accompaniment, sightreading and sightsinging (high proficiency), piano conducting, stick conducting, transcription by ear, absolute pitch, basic recording & live audio engineering
 
 References available upon [request](mailto:xun.ruiran@gmail.com). Affiliations: [Maestra](https://maestramusic.org/profile/ruiran-xun/), [MUSE](https://museonline.org/profile/ruiran-xun/), [AFM Local 802](https://www.local802afm.org/).
