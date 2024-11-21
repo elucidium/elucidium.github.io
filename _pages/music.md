@@ -6,11 +6,7 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page (rev. 10/18/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, including a comprehensive list of projects, collaborations, performances, etc. in which I've been involved! This is how I spend most of my time outside of work/academics, and I wouldn't have it any other way.
-
-Any publicly available recordings of my work are linked below. I've also taken the liberty of linking collaborators and organizations with whom I've been fortunate enough to work.
-
-[A single-page résumé can be found here (rev. 10/18/2024).](/assets/pdf/xun-ruiran-music-public.pdf)
+This page (rev. 11/21/2024) is intended to be a digital *curriculum vitae* for my musical endeavors, i.e. a comprehensive list of projects, collaborations, performances, etc. I've been lucky to work on! Fair warning: it's a lot of details. [A single-page résumé can be found here (rev. 10/18/2024)](/assets/pdf/xun-ruiran-music-public.pdf) for those who would love to respectfully decline on combing through the fine print.
 
 Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
@@ -31,12 +27,18 @@ Ruiran is particularly interested in developing new works as a music director an
 ### productions and performances
 
 **new works**
-- ***Spiral Bound*** (music/vocal director) @ [Racket NYC](https://racketnyc.com/), New York, NY; **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
+- ***Spiral Bound*** (music/vocal director) @ [Racket NYC](https://racketnyc.com/); **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
 *Fundraiser concert presentation. Updated scores, reworked vocal arrangements, taught actors music, piano-conducted the performance, coordinated a multi-track recording with venue techs, and mixed/mastered the audio capture for archival footage purposes.*
 
 **concerts & events**
-- ***Vampira*** (pianist) @ [Salon Avec Moi](https://www.salonavecmoi.com/), New York, NY; **10/2024**.  
-*Performed a program of vocal selections mostly from the classical repertoire. Footage to come.*
+- ***Sunday Scaries*** (pianist) @ [In Confidence](https://inconfidence.club/); **11/2024**.
+- ***Vampira*** (pianist) @ [Salon Avec Moi](https://www.salonavecmoi.com/); **10/2024**.  
+
+**miscellaneous**
+- **Audition accompaniment**: [TheaterWorksUSA](https://twusa.org/).
+- **Freelance accompaniment**: song presented in second-year BMI workshop by [Antonio Del Valle](https://www.antonio-delvalle.com/) and Kristine Jieun Lee.
+- **Freelance copywork**: *[Hear Me](https://www.hearmemusical.com/)*, orch. [Katie Coleman](https://www.katiecolemanmusic.com/); *Christmas Grand Market*, [Braata Productions](https://www.braataproductions.org/).
+- **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://www.instagram.com/hklo.nyc/); various independent projects!
 
 ## 2022–2024 (SF Bay Area)
 
@@ -79,7 +81,7 @@ Ruiran is particularly interested in developing new works as a music director an
 - ***A Night On Broadway: Broadway Miscast*** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **03/2024**.
 - ***Winter Harmonies*** (pianist) @ Sunnyvale Community Players, Sunnyvale, CA; **12/2023**.
 - ***Spring Soirée*** (pianist) @ [Theatre Bay Area](https://www.theatrebayarea.org/), San Francisco, CA; **05/2023**.
-- (Not listed: collaborative pianist for several student recitals.)
+- (Not listed: collaborative pianist for three student recitals.)
 
 **substitute engagements**
 
@@ -97,9 +99,10 @@ Ruiran is particularly interested in developing new works as a music director an
 Performed in a reading session hosted by [Maestra](https://maestramusic.org/) featuring four songs from in-development musicals. Music directed/conducted "One Wrong Turn" by [Rae Covey](http://rachelcovey.com/) (orch. [Anna Ebbeson](https://annaebbesen.com/), copyist [Athena So](https://www.athenasomusic.com/)); played piano for "Make a Move" by [Britt Bonney](https://www.brittbonney.com/) and "Growing Up" by [Alex Goldie Golden](https://www.alexgoldiegolden.com/).
 
 **technical theatre**
-- ***Being Alive*** (sound load-in crew) @ [TheatreWorks Silicon Valley](https://theatreworks.org/), Mountain View, CA; **05/2024**.
-- ***Thumbelina*** (spotlight operator) @ [Osipova Ballet Academy](https://www.osipovaballetacademy.com/), Mountain View, CA; **03/2024**.
-- ***Matilda*** (spotlight operator) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **07/2023**.
+- ***The Right*** (sound engineer) @ [Peninsula Youth Theatre](https://pytnet.org/), Mountain View, CA; **06/2024**. Presentation of original musical by Val Zvinyatskovsky.
+- ***Being Alive*** (sound load-in crew) @ [TheatreWorks Silicon Valley](https://theatreworks.org/), Mountain View, CA; **05/2024**. Sound supervisor: [Dan Holland](https://www.dan-holland.com/).
+- ***Thumbelina*** (spotlight operator) @ [Osipova Ballet Academy](https://www.osipovaballetacademy.com/), Mountain View, CA; **03/2024**. Lighting designer: Val Zvinyatskovsky.
+- ***Matilda*** (spotlight operator) @ Peninsula Youth Theatre, Mountain View, CA; **07/2023**. Lighting designer: Val Zvinyatskovsky.
 
 ## 2018–2022 (CMU undergrad)
 
