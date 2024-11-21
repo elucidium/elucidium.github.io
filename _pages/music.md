@@ -38,7 +38,7 @@ Ruiran is particularly interested in developing new works as a music director an
 - **Audition accompaniment**: [TheaterWorksUSA](https://twusa.org/).
 - **Freelance accompaniment**: song presented in second-year BMI workshop by [Antonio Del Valle](https://www.antonio-delvalle.com/) and Kristine Jieun Lee.
 - **Freelance copywork**: *[Hear Me](https://www.hearmemusical.com/)*, orch. [Katie Coleman](https://www.katiecolemanmusic.com/); *Christmas Grand Market*, [Braata Productions](https://www.braataproductions.org/).
-- **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://www.instagram.com/hklo.nyc/); various independent projects!
+- **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://hklo.nyc/); various independent projects!
 
 ## 2022–2024 (SF Bay Area)
 
@@ -58,7 +58,7 @@ Ruiran is particularly interested in developing new works as a music director an
 - ***In the Heights*** (rehearsal pianist) @ [Cabrillo Stage](https://www.cabrillostage.com/), Aptos, CA; **07–08/2024**. Dir. Estrella Esparza-Johnson, mus. dir. Michael J. McGushin.
 - ***American Psycho*** (Ableton programmer) @ [BAD Musical Theatre](https://www.badmusicaltheatre.com/), **07/2024**. Dir. [Justin P. Lopez](https://justinplopez.com/).
 - ***Mary Poppins*** (rehearsal pianist, sub. keyboard 1) @ South Bay Musical Theatre, Saratoga, CA; **05–06/2024**. Dir. Scott Ludwig, mus. & voc. dir. David Herberg.
-- ***Assassins*** (vocal director, rehearsal pianist, keyboard 1) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/), mus. dir. [Sixto F. Montesinos Jr.](https://www.sixtomontesinos.com/).
+- ***Assassins*** (vocal director, rehearsal pianist, keyboard 1) @ [Stanford TAPS](https://taps.stanford.edu/), Stanford, CA; **04–05/2024**. Dir. [Karina Gutiérrez](https://www.karinagutierreztheater.com/), mus. dir. [Sixto F. Montesinos Jr.](https://www.sixtomontesinos.com/)
 - ***The Wedding Singer*** (keyboard 2) @ [Harker Conservatory](https://www.harker.org/upper-school/programs-extracurriculars/performing-arts), San Jose, CA; **03/2024**. Mus. dir. Catherine Snider.
 - ***The Little Mermaid*** (keyboard 1) @ [The King's Academy](https://www.tka.org/), Sunnyvale, CA; **03/2024**. Mus. dir. Richard Krishnan.
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
