@@ -3,6 +3,8 @@ layout: page
 title: Curriculum Vitae
 permalink: /cv/
 ---
+Hello! This is a CV covering my past academic and work experience outside of musical theatre. This page is rarely updated.
+
 # **overview**
 
 ## education
@@ -65,11 +67,9 @@ Advanced Studies Diploma (June 2018)
 
 ## work experience
 
-### Staff Software Engineer
-*(Palo Alto Networks, Santa Clara, CA; 11/2023--present)*
-
-### Software Engineer
-*(Palo Alto Networks, Santa Clara, CA; 08/2022--10/2023)*
+### Software Engineer / Staff Software Engineer
+*(Palo Alto Networks, Santa Clara, CA; 08/2022--10/2023 / 11/2023--08/2024)*
+- Built key tools, infrastructure, and automation for a customer-oriented QA team
 
 ### 15-122 Instructor of Record
 *(CMU School of Computer Science, Pittsburgh, PA; 05/2022--06/2022)*
