@@ -6,9 +6,7 @@ permalink: /music/
 
 ![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
 
-This page (rev. 12/25/2024) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. [Feel free to skip the fine print with this résumé (.pdf).](/assets/pdf/xun-ruiran-music-public.pdf)
-
-Feel free to [contact me](mailto:xun.ruiran@gmail.com) with any questions!
+This page (rev. 12/25/2024) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
@@ -69,9 +67,10 @@ Ruiran is particularly interested in developing new works as a music director an
 - ***Legally Blonde*** (rehearsal pianist) @ [Foothill Music Theatre](https://foothill.edu/theatre/music.html), Los Altos Hills, CA; **03/2024**. Dir. Milissa Carey, mus. dir. Michael Horsley.
 - ***A Little Night Music*** (music director, conductor) @ South Bay Musical Theatre, Saratoga, CA; **01–02/2024**. Dir. Walter M. Mayes, voc. dir. Anita Hsiung Carey.  
 *"... couples waltz in ever-changing circles and couplings... all the while dancing to an admirably played score by the 15-person orchestra under the direction of Ruiran Xun." – [Talkin' Broadway](https://www.talkinbroadway.com/page/regional/sanjose/sj238.html)*  
-*Earned the [Bobo Reardon Newcomer Award](https://southbaymt.com/about-sbmt/awards/). [BroadwayWorld San Francisco article](https://www.broadwayworld.com/san-francisco/article/South-Bay-Musical-Theatre-Announces-Cast-And-Creative-Team-For-A-LITTLE-NIGHT-MUSIC-January-27-February-17-20240112).*
+*Earned the [Bobo Reardon Newcomer Award](https://southbaymt.com/about-sbmt/awards/). [BroadwayWorld San Francisco article](https://www.broadwayworld.com/san-francisco/article/South-Bay-Musical-Theatre-Announces-Cast-And-Creative-Team-For-A-LITTLE-NIGHT-MUSIC-January-27-February-17-20240112). Nominated for the BroadwayWorld San Francisco / Bay Area Awards (Best Music Direction & Orchestra Performance).*
 - ***Sweeney Todd: The Demon Barber of Fleet Street*** (keyboard 1, sub. conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **10–11/2023**. Dir. Thomas Times, voc. dir. Stacy Levin, mus. dir. [Val Zvinyatskovsky](https://www.valzvi.com/).
-- ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.
+- ***The Little Mermaid*** (music director, piano/conductor) @ [Sunnyvale Community Players](https://www.sunnyvaleplayers.org/), Sunnyvale, CA; **09–10/2023**. Dir. Caitlin Papp, voc. dir. Kristina Nakagawa.  
+*Nominated for the BroadwayWorld San Francisco / Bay Area Awards (Best Music Direction & Orchestra Performance).*
 - ***Ragtime*** (keyboard 2, rehearsal pianist) @ [Lyric Theatre](https://www.lyrictheatre.org/), San Jose, CA; **07–08/2023**. Dir. Gary Stanford, Jr., voc. dir. Juanita Harris, mus. dir. Daniel Thomas.
 - ***Falsettos*** (keyboard 2, sub. piano/conductor) @ [The Pear Theatre](https://www.thepear.org/), Mountain View, CA; **06–07/2023**. Dir. Janie Scott, mus. dir. Val Zvinyatskovsky.
 - ***The Hunchback of Notre Dame*** (rehearsal pianist) @ Cabrillo Stage, Aptos, CA; **07/2023**. Dir. [Vinh G. Nguyen](http://www.mrvinhnguyen.com/), mus. dir. Michael J. McGushin.
