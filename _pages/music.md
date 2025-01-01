@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-![Photograph of me conducting the closing performance of Sweeney Todd (Sunnyvale Community Players, October 2023). (photo: Jason Loveman)](/assets/img/header.jpg)
+![First Takes: Holiday Edition with Maestra (December 2024). (Gina Detres Photo)](/assets/img/header.jpg)
 
 This page (rev. 12/25/2024) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
