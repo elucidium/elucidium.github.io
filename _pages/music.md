@@ -6,11 +6,11 @@ permalink: /music/
 
 ![First Takes: Holiday Edition with Maestra (December 2024). (Gina Detres Photo)](/assets/img/header.jpg)
 
-This page (rev. 12/25/2024) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
+This page (rev. 01/16/2025) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
-**Ruiran Xun**<sup>[*]</sup> (she/her) is an NYC-based collaborative pianist, music director, and conductor.
+**Ruiran Xun**<sup>[*]</sup> (she/her) is an NYC-based collaborative pianist, music director, and conductor. 
 
 She is a 2022 graduate of Carnegie Mellon University, where she received B.S. degrees in chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. She also earned a minor in collaborative piano from the School of Music. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, a student-led theatre organization; and participated in many more projects in various capacities (composer, arranger, pianist).
 
@@ -25,6 +25,7 @@ Ruiran is particularly interested in developing new works as a music director an
 ### productions and performances
 
 **developmental**
+- [***THE JONATHAN LARSON PROJECT***](https://thejonathanlarsonproject.com/) (music assistant) @ Orpheum Theatre (off-Broadway); **01–03/2025**. Mus. dir. [Cynthia Meng](https://cynthiameng.com/), mus. sup. [Charlie Rosen](https://www.charlierosen.com/).
 - [***MARIAN***](https://www.marianmusical.com/) (music assistant) @ [City College of New York](https://www.ccny.cuny.edu/theatre/aarondavis); **12/2024**. Mus. Chelsea Marie Davis & [Victoria Theodore](http://victoriatheodore.com/), mus. dir. Deah Love Harriott.  
 *Filmed workshop presentation. Formatted and updated scores, taught music to the cast, accompanied in rehearsals and performance, recorded vocal demos, and coordinated audio tech needs with stage management and venue staff.*
 - [***Spiral Bound***](https://www.mirandaferrissjones.com/spiralbound) (music/vocal director) @ [Racket NYC](https://racketnyc.com/); **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
@@ -34,6 +35,7 @@ Ruiran is particularly interested in developing new works as a music director an
 - [***Don't Let the Pigeon Drive the Bus!***](https://twusa.org/shows-artists/on-tour-2/pigeon/) (music director) @ [TheaterWorksUSA](https://twusa.org/) (remount tour); **01/2025**. Dir. Jen Wineman.
 
 **concerts & events**
+- Corporate event in Cancún (MD, pianist, violinist) w/ [Broadway Plus](https://www.broadwayplus.com/); **01/2025**.
 - ***Sunday Scaries*** (pianist) @ [In Confidence](https://inconfidence.club/); **11/2024**.
 - ***Vampira*** (pianist) @ [Salon Avec Moi](https://www.salonavecmoi.com/); **10/2024**.  
 
