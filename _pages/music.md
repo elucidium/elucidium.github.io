@@ -6,7 +6,7 @@ permalink: /music/
 
 ![First Takes: Holiday Edition with Maestra (December 2024). (Gina Detres Photo)](/assets/img/header.jpg)
 
-This page (rev. 01/16/2025) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
+This page (rev. 03/26/2025) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
@@ -24,26 +24,34 @@ Ruiran is particularly interested in developing new works as a music director an
 
 ### productions and performances
 
+**off-Broadway, touring, regional**
+- [***SUFFS*** 1st National Tour](https://suffsmusical.com/) (associate music director); **09/2025–09/2026**. Mus. sup. [Andrea Grody](https://www.andreagrody.com/), mus. dir. [Dani Lee Hutch](https://danileehutch.com/).
+- [***Mean Girls*** North American Tour](https://meangirlsontour.com/) (sub. keys 2); **05/2025**. Mus. dir. [Julius LaFlamme](https://www.juliuslaflamme.com/).
+- [***Stompin' at the Savoy***](https://www.delawaretheatre.org/stompin-at-the-savoy) (music assistant) @ [Delaware Theatre Company](https://www.delawaretheatre.org/); **04–05/2025**. Mus. sup. [Greg Anthony Rassen](https://www.greganthonymusic.com/), mus. dir. Brian Whitted.
+- [***The Jonathan Larson Project***](https://thejonathanlarsonproject.com/) (music assistant, sub. keys 1/conductor) @ Orpheum Theatre (off-Broadway); **01–03/2025**. Mus. dir. [Cynthia Meng](https://cynthiameng.com/), mus. sup. [Charlie Rosen](https://www.charlierosen.com/).
+- [***Don't Let the Pigeon Drive the Bus!*** remount tour](https://twusa.org/shows-artists/on-tour-2/pigeon/) (music director) @ [TheaterWorksUSA](https://twusa.org/); **01/2025**. Dir. Jen Wineman.
+  
 **developmental**
-- [***THE JONATHAN LARSON PROJECT***](https://thejonathanlarsonproject.com/) (music assistant) @ Orpheum Theatre (off-Broadway); **01–03/2025**. Mus. dir. [Cynthia Meng](https://cynthiameng.com/), mus. sup. [Charlie Rosen](https://www.charlierosen.com/).
 - [***MARIAN***](https://www.marianmusical.com/) (music assistant) @ [City College of New York](https://www.ccny.cuny.edu/theatre/aarondavis); **12/2024**. Mus. Chelsea Marie Davis & [Victoria Theodore](http://victoriatheodore.com/), mus. dir. Deah Love Harriott.  
 *Filmed workshop presentation. Formatted and updated scores, taught music to the cast, accompanied in rehearsals and performance, recorded vocal demos, and coordinated audio tech needs with stage management and venue staff.*
 - [***Spiral Bound***](https://www.mirandaferrissjones.com/spiralbound) (music/vocal director) @ [Racket NYC](https://racketnyc.com/); **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
 *Fundraiser concert presentation. Updated scores, reworked vocal arrangements, taught actors music, piano-conducted the performance, coordinated a multi-track recording with venue techs, and mixed/mastered the audio capture for archival footage purposes.*
 
 **musical theatre**
-- [***Don't Let the Pigeon Drive the Bus!***](https://twusa.org/shows-artists/on-tour-2/pigeon/) (music director) @ [TheaterWorksUSA](https://twusa.org/) (remount tour); **01/2025**. Dir. Jen Wineman.
+- ***Young Frankenstein*** (sub. keys 1/conductor) @ [AfterWork Theater](https://afterworktheater.org/); **03/2025**.
+- ***Into the Woods*** (rehearsal pianist, keys 1) @ [The Dalton School](https://www.dalton.org/); **01–03/2025**.
 
 **concerts & events**
-- Corporate event in Cancún (MD, pianist, violinist) w/ [Broadway Plus](https://www.broadwayplus.com/); **01/2025**.
-- ***Sunday Scaries*** (pianist) @ [In Confidence](https://inconfidence.club/); **11/2024**.
-- ***Vampira*** (pianist) @ [Salon Avec Moi](https://www.salonavecmoi.com/); **10/2024**.  
+- Promo events for [Jennifer Ashley Tepper](https://www.jenniferashleytepper.com/)'s book *Women Writing Musicals*; **03/2025**.
+- Teaching artist for workshops & MD/pianist for corporate event in Cancún w/ [Broadway Plus](https://www.broadwayplus.com/); **01–03/2025**.
+- Pianist for concert with [In Confidence](https://inconfidence.club/); **11/2024**.
+- Pianist for salon event with [Salon Avec Moi](https://www.salonavecmoi.com/); **10/2024**.  
 
 **miscellaneous**
 - **Audition accompaniment**: TheaterWorksUSA.
 - **Freelance accompaniment**: song presented in second-year BMI workshop by [Antonio Del Valle](https://www.antonio-delvalle.com/) and Kristine Jieun Lee.
-- **Freelance copywork**: *[Hear Me](https://www.hearmemusical.com/)*, orch. [Katie Coleman](https://www.katiecolemanmusic.com/); *Christmas Grand Market*, [Braata Productions](https://www.braataproductions.org/).
-- **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://hklo.nyc/); various independent projects!
+- **Freelance copywork** for miscellaneous projects.
+- **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://hklo.nyc/).
 
 ## 2022–2024 (SF Bay Area)
 
