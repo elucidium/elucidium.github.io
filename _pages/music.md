@@ -26,7 +26,6 @@ Ruiran is particularly interested in developing new works as a music director an
 
 **off-Broadway, touring, regional**
 - [***SUFFS*** 1st National Tour](https://suffsmusical.com/) (associate music director); **09/2025–09/2026**. Mus. sup. [Andrea Grody](https://www.andreagrody.com/), mus. dir. [Dani Lee Hutch](https://danileehutch.com/).
-- [***Mean Girls*** North American Tour](https://meangirlsontour.com/) (sub. keys 2); **05/2025**. Mus. dir. [Julius LaFlamme](https://www.juliuslaflamme.com/).
 - [***Stompin' at the Savoy***](https://www.delawaretheatre.org/stompin-at-the-savoy) (music assistant) @ [Delaware Theatre Company](https://www.delawaretheatre.org/); **04–05/2025**. Mus. sup. [Greg Anthony Rassen](https://www.greganthonymusic.com/), mus. dir. Brian Whitted.
 - [***The Jonathan Larson Project***](https://thejonathanlarsonproject.com/) (music assistant, sub. keys 1/conductor) @ Orpheum Theatre (off-Broadway); **01–03/2025**. Mus. dir. [Cynthia Meng](https://cynthiameng.com/), mus. sup. [Charlie Rosen](https://www.charlierosen.com/).
 - [***Don't Let the Pigeon Drive the Bus!*** remount tour](https://twusa.org/shows-artists/on-tour-2/pigeon/) (music director) @ [TheaterWorksUSA](https://twusa.org/); **01/2025**. Dir. Jen Wineman.
