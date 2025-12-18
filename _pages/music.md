@@ -6,17 +6,17 @@ permalink: /music/
 
 ![First Takes: Holiday Edition with Maestra (December 2024). (Gina Detres Photo)](/assets/img/header.jpg)
 
-This page (rev. 03/26/2025) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. Feel free to [skip the fine print with this résumé](/assets/pdf/xun-ruiran-music-public.pdf) or [contact me](mailto:xun.ruiran@gmail.com) with any questions!
+This page (rev. 12/17/2025) is intended to be a comprehensive, digital *curriculum vitae* for all my musical and theatrical work. Fair warning: it's a lot of details. [Here's the one-page résumé as a PDF.](/assets/pdf/xun-ruiran-music-public.pdf) [Feel free to contact me](mailto:xun.ruiran@gmail.com) with any questions!
 
 ## biography
 
-**Ruiran Xun**<sup>[*]</sup> (she/her) is an NYC-based collaborative pianist, music director, and conductor. 
+**Ruiran Xun**<sup>[*]</sup> (she/her) is a collaborative pianist, music director, and conductor.
 
-She is a 2022 graduate of Carnegie Mellon University, where she received B.S. degrees in chemistry and computer science, but was consistently involved in theatre and other musical endeavors outside of academics. She also earned a minor in collaborative piano from the School of Music. Ruiran has previously worked with the **Pittsburgh Festival Opera** (resident artist pianist, assistant music director) and the **CMU School of Music** (voice lesson and rehearsal pianist). While at CMU, she was assistant conductor for the **All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, a student-led theatre organization; and participated in many more projects in various capacities (composer, arranger, pianist).
+She is a 2022 graduate of Carnegie Mellon University, where she received B.S. degrees in chemistry and computer science, along with a minor in collaborative piano. Ruiran previously worked with the **Pittsburgh Festival Opera** and the **CMU School of Music**. While at CMU, she was assistant conductor for the **All-University Orchestra**; music directed three mainstage productions by **Scotch'n'Soda Theatre**, a student-led theatre organization; and participated in many more projects in various capacities (composer, arranger, pianist).
 
-From 2022 to 2024, while residing in the SF Bay Area, Ruiran contributed to many productions as a music director, vocal director, rehearsal pianist, and/or audition pianist. She has also subbed as a rehearsal pianist, pit keyboardist, and/or conductor for other projects. Some local companies she's worked for include **Sunnyvale Community Players** (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), **Cabrillo Stage** (*The Hunchback of Notre Dame*, *In the Heights*), **The Pear Theatre** (*Falsettos*), **South Bay Musical Theatre** (*A Little Night Music*, *Mary Poppins*), **Foothill Music Theatre** (*Legally Blonde*), and **Stanford TAPS** (*Assassins*).
+From 2022 to 2024, while residing in the SF Bay Area, Ruiran contributed to many productions as a music/vocal director and rehearsal/audition pianist. She also frequently subbed on other projects. Some local companies she's worked for include **Sunnyvale Community Players** (*Next to Normal*, *The Little Mermaid*, *Sweeney Todd*), **Cabrillo Stage** (*The Hunchback of Notre Dame*, *In the Heights*), **The Pear Theatre** (*Falsettos*), **South Bay Musical Theatre** (*A Little Night Music*, *Mary Poppins*), **Foothill Music Theatre** (*Legally Blonde*), and **Stanford TAPS** (*Assassins*).
 
-Ruiran is particularly interested in developing new works as a music director and/or music assistant. Recent new work credits include *JUSTICE: A New Musical*, written by Lauren Gunderson, Kait Kerrigan, and Bree Lowdermilk (music director, **Marin Theatre Company** workshop & production, 2022–2023); *TRAVELS*, written by James Harrison Monaco (music assistant, **Ars Nova** workshop, 2023); and *MARIAN*, composed by Chelsea Marie Davis and Victoria Theodore (music assistant, **City College of New York** workshop, 2024).
+Ruiran is now based in New York City, where she primarily music assists developmental workshops and music directs concerts/cabarets. In 2025, she was the music assistant for *The Jonathan Larson Project* off-Broadway.
 
 [*] name pronunciation: roo-RAN SHREEN
 
@@ -25,31 +25,27 @@ Ruiran is particularly interested in developing new works as a music director an
 ### productions and performances
 
 **off-Broadway, touring, regional**
-- [***SUFFS*** 1st National Tour](https://suffsmusical.com/) (associate music director); **09/2025–09/2026**. Mus. sup. [Andrea Grody](https://www.andreagrody.com/), mus. dir. [Dani Lee Hutch](https://danileehutch.com/).
+- [***SUFFS*** 1st National Tour](https://suffsmusical.com/) (associate music director); **09/2025**. Mus. sup. [Andrea Grody](https://www.andreagrody.com/), mus. dir. [Dani Lee Hutch](https://danileehutch.com/).
 - [***Stompin' at the Savoy***](https://www.delawaretheatre.org/stompin-at-the-savoy) (music assistant) @ [Delaware Theatre Company](https://www.delawaretheatre.org/); **04–05/2025**. Mus. sup. [Greg Anthony Rassen](https://www.greganthonymusic.com/), mus. dir. Brian Whitted.
 - [***The Jonathan Larson Project***](https://thejonathanlarsonproject.com/) (music assistant, sub. keys 1/conductor) @ Orpheum Theatre (off-Broadway); **01–03/2025**. Mus. dir. [Cynthia Meng](https://cynthiameng.com/), mus. sup. [Charlie Rosen](https://www.charlierosen.com/).
 - [***Don't Let the Pigeon Drive the Bus!*** remount tour](https://twusa.org/shows-artists/on-tour-2/pigeon/) (music director) @ [TheaterWorksUSA](https://twusa.org/); **01/2025**. Dir. Jen Wineman.
   
 **developmental**
-- [***MARIAN***](https://www.marianmusical.com/) (music assistant) @ [City College of New York](https://www.ccny.cuny.edu/theatre/aarondavis); **12/2024**. Mus. Chelsea Marie Davis & [Victoria Theodore](http://victoriatheodore.com/), mus. dir. Deah Love Harriott.  
-*Filmed workshop presentation. Formatted and updated scores, taught music to the cast, accompanied in rehearsals and performance, recorded vocal demos, and coordinated audio tech needs with stage management and venue staff.*
-- [***Spiral Bound***](https://www.mirandaferrissjones.com/spiralbound) (music/vocal director) @ [Racket NYC](https://racketnyc.com/); **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.  
-*Fundraiser concert presentation. Updated scores, reworked vocal arrangements, taught actors music, piano-conducted the performance, coordinated a multi-track recording with venue techs, and mixed/mastered the audio capture for archival footage purposes.*
+- [***MARIAN***](https://www.marianmusical.com/) (music assistant) @ [City College of New York](https://www.ccny.cuny.edu/theatre/aarondavis); **12/2024**. Mus. Chelsea Marie Davis & [Victoria Theodore](http://victoriatheodore.com/), mus. dir. Deah Love Harriott.
+- [***Spiral Bound***](https://www.mirandaferrissjones.com/spiralbound) (music/vocal director) @ [Racket NYC](https://racketnyc.com/); **09/2024**. Wr. [Miranda Ferriss Jones](https://www.mirandaferrissjones.com/), dir. [Ellenore Scott](https://www.ellenorescott.co/), mus. dir. Yair Evnine.
 
 **musical theatre**
 - ***Young Frankenstein*** (sub. keys 1/conductor) @ [AfterWork Theater](https://afterworktheater.org/); **03/2025**.
 - ***Into the Woods*** (rehearsal pianist, keys 1) @ [The Dalton School](https://www.dalton.org/); **01–03/2025**.
 
 **concerts & events**
-- Promo events for [Jennifer Ashley Tepper](https://www.jenniferashleytepper.com/)'s book *Women Writing Musicals*; **03/2025**.
-- Teaching artist for workshops & MD/pianist for corporate event in Cancún w/ [Broadway Plus](https://www.broadwayplus.com/); **01–03/2025**.
-- Pianist for concert with [In Confidence](https://inconfidence.club/); **11/2024**.
-- Pianist for salon event with [Salon Avec Moi](https://www.salonavecmoi.com/); **10/2024**.  
+- Pianist for events promoting [Jennifer Ashley Tepper](https://www.jenniferashleytepper.com/)'s book *Women Writing Musicals*; **03/2025**.
+- Teaching artist for workshops with [Broadway Plus](https://www.broadwayplus.com/); **01–03/2025**.
+- Pianist for concert with [Salon Avec Moi](https://www.salonavecmoi.com/) (**10/2024**) and [In Confidence](https://inconfidence.club/) (**11/2024**).  
 
 **miscellaneous**
 - **Audition accompaniment**: TheaterWorksUSA.
-- **Freelance accompaniment**: song presented in second-year BMI workshop by [Antonio Del Valle](https://www.antonio-delvalle.com/) and Kristine Jieun Lee.
-- **Freelance copywork** for miscellaneous projects.
+- **Freelance copywork** for miscellaneous projects!
 - **For fun**: violinist with the [Hell's Kitchen Laboratory Orchestra](https://hklo.nyc/).
 
 ## 2022–2024 (SF Bay Area)
@@ -57,13 +53,10 @@ Ruiran is particularly interested in developing new works as a music director an
 ### productions and performances
 
 **developmental**
-- [***TRAVELS***](https://www.jamesharrisonmonaco.com/travels) (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).  
-*Prepared scores pre-workshop, implemented changes during the workshop, and assisted actors with music review.*
-- [***JUSTICE: A New Musical***](https://www.laurengunderson.com/all-plays/justicemusical) (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/).  
-*Coordinated a music team of two music assistants and an assc. MD; facilitated the implementation of orchestration tracks in Ableton; taught music, contributed to copywork, and conducted the run of the show's continued world premiere.  
+- [***TRAVELS***](https://www.jamesharrisonmonaco.com/travels) (music assistant) @ [Ars Nova](https://arsnovanyc.com/), New York, NY; **10/2023**. Comp. [James Harrison Monaco](https://www.jamesharrisonmonaco.com/), mus. dir. [Or Matias](https://www.ormatiasmusic.com/).
+- [***JUSTICE: A New Musical***](https://www.laurengunderson.com/all-plays/justicemusical) (music director, piano/conductor) @ [Marin Theatre Company](https://www.marintheatre.org/), Mill Valley, CA; **02–03/2023**. Bk. [Lauren Gunderson](https://www.laurengunderson.com/), lyr. & mus. [Kait Kerrigan & Bree Lowdermilk](https://kerrigan-lowdermilk.com/), dir. [Ashley Rodbro](http://www.ashleyrodbro.com/). 
 [BroadwayWorld Sacramento article](https://www.broadwayworld.com/sacramento/article/Cast-and-Creative-Team-Announced-for-JUSTICE-A-NEW-MUSICAL-at-Marin-Theatre-Company-20221227).* 
-- ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).  
-*Performed in a new musical staged as part of MWTC's First Annual New Works Festival.*
+- ***Masked: the Musical*** (violinist) @ [MilkyWay Theatre Company](https://www.milkywaytheatrecompany.com/), New York, NY; **01/2023**. Wr. [Tianna Davis](https://www.tiannadavisartist.com), dir. [Anna Hanson](https://www.annahanson.online/), mus. dir. [Joshua Gregg Fried](https://www.joshuagreggfried.com/).
 
 **musical theatre**
 - ***No, No, Nanette*** (orch. reductions, temp. stage manager) @ [South Bay Musical Theatre](https://southbaymt.com/), Saratoga, CA; **09–10/2024**. Dir. [Doug Greer](https://www.douggreeronline.com/), mus. dir. [George Yefchak](https://yefchak.com/).
